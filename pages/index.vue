@@ -8,13 +8,13 @@ const posts = await queryContent()
 
 <template>
   <div class="book-tracker-container">
-    <h2>Livros Lidos</h2>
+    <h2>Livros Lidos ({{posts.length}})</h2>
     <ul class="book-list">
       <li v-for="post in posts">
         <img :src="post.image" alt="Capa do livro">
         <div class="book-info">
           <h2>{{post.title}}</h2>
-          <p>Autor(es): {{ post.author }}</p>
+          <p>Autor(es): {{ post.book_author.join(", ") }}</p>
         </div>
         <a :href="post._path" class="details-link">Ver detalhes</a>
       </li>

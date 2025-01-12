@@ -44,7 +44,7 @@ const feedback = computed(() => {
         <img :src="data.image" alt="Capa do livro">
         <div class="book-info">
           <h1>{{ data.title }}</h1>
-          <p><strong>Autor(es):</strong> {{ data.author }}</p>
+          <p><strong>Autor(es):</strong> {{ data.book_author.join(", ") }}</p>
           <p><strong>Data de leitura:</strong> {{ dateRead }}</p>
           <p><strong>Status data leitura:</strong> {{ readingStatus }}</p>
           <p><strong>Avaliação:</strong> <span :class="feedback.feedbackClass">{{ feedback.text }}</span></p>
