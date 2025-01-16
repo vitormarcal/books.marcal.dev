@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const posts = await queryContent()
-    .where({ tags: { $contains: 'livros' }, _partial: false })
-    .sort({ created_at: -1 })
+    .where({tags: {$contains: 'livros'}, _partial: false})
+    .sort({created_at: -1})
     .without(['body'])
     .find();
 
@@ -17,6 +17,22 @@ const markImageLoaded = (key: string) => {
 
 // Verifica se a imagem já foi carregada
 const imageLoaded = (key: string) => loadedImages.value.includes(key);
+
+const groupedByYear = computed(() => {
+  return posts.reduce((groups, post) => {
+    const year = new Date(post.date_read || post.updated_at || post.created_at).getFullYear();
+    if (!groups[year]) {
+      groups[year] = [];
+    }
+    groups[year].push(post);
+    return groups;
+  }, {} as Record<number, typeof posts>);
+});
+
+const groupedYearsArray = computed(() => {
+  return Object.entries(groupedByYear.value)
+      .sort((a, b) => Number(b[0]) - Number(a[0]));
+});
 
 onMounted(() => {
   // Configura o IntersectionObserver
@@ -39,34 +55,41 @@ onMounted(() => {
 <template>
   <div class="book-tracker-container">
     <h2>📚 Livros Lidos ({{ posts.length }})</h2>
-    <ul v-if="posts.length" class="book-list">
-      <li v-for="post in posts" :key="post._path" class="book-item">
-        <div class="image-container">
-          <!-- Placeholder enquanto a imagem não foi carregada -->
-          <div v-if="!imageLoaded(post._path)" class="image-placeholder"></div>
-
-          <!-- Imagem real -->
-          <img
-              :data-src="post.image"
-              alt="Capa do livro"
-              class="lazy-image"
-              @load="markImageLoaded(post._path)"
-          />
+    <div v-if="groupedYearsArray.length" class="year-group">
+      <div class="year-separator">
+        <span class="separator-icon">🏆</span>
+      </div>
+      <div v-for="([year, books], index) in groupedYearsArray" :key="year" class="year-section">
+        <h2 class="year-title">{{ year }} ({{ books.length }})</h2>
+        <ul class="book-list">
+          <li v-for="book in books" :key="book._path" class="book-item">
+            <div class="image-container">
+              <div v-if="!imageLoaded(book._path)" class="image-placeholder"></div>
+              <img
+                  :data-src="book.image"
+                  alt="Capa do livro"
+                  class="lazy-image"
+                  @load="markImageLoaded(book._path)"
+              />
+            </div>
+            <div class="book-info">
+              <h2 class="book-title">{{ book.title }}</h2>
+              <p class="book-author">Autor(es): <span>{{ book.book_author.join(", ") }}</span></p>
+              <a :href="book._path" class="details-link">Ver detalhes</a>
+            </div>
+          </li>
+        </ul>
+        <!-- Ícone separador entre anos -->
+        <div v-if="index < groupedYearsArray.length - 1" class="year-separator">
+          <span class="separator-icon">🌟</span>
         </div>
-        <div class="book-info">
-          <h2 class="book-title">{{ post.title }}</h2>
-          <p class="book-author">Autor(es): <span>{{ post.book_author.join(", ") }}</span></p>
-          <a :href="post._path" class="details-link">Ver detalhes</a>
-        </div>
-      </li>
-    </ul>
+      </div>
+    </div>
     <div v-else class="no-books">
       Nenhum livro encontrado.
     </div>
   </div>
 </template>
-
-
 
 
 <style scoped>
@@ -177,6 +200,53 @@ h2 {
   font-size: 1.2em;
   color: #666;
 }
+
+.year-title {
+  font-size: 1.5em;
+  color: #444;
+  text-align: left;
+  margin: 20px 0 10px;
+  position: relative;
+}
+
+.year-title::before {
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  width: 50px;
+  height: 3px;
+  background: linear-gradient(to right, #007bff, #0056b3);
+  border-radius: 5px;
+}
+
+.year-title::after {
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  left: 55px;
+  width: calc(100% - 55px);
+  height: 1px;
+  background: #ddd;
+}
+
+.year-separator {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 30px 0;
+}
+
+.separator-icon {
+  font-size: 2em;
+  color: #007bff;
+  background: #fff;
+  border: 2px solid #007bff;
+  border-radius: 50%;
+  padding: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
 
 @keyframes shimmer {
   0% {
