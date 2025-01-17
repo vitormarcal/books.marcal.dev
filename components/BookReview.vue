@@ -47,14 +47,11 @@ const feedback = computed(() => {
           <p><strong>Data de leitura:</strong> {{ dateRead }}</p>
           <p><strong>Status data leitura:</strong> {{ readingStatus }}</p>
           <p><strong>Avaliação:</strong> <span :class="feedback.feedbackClass">{{ feedback.text }}</span></p>
-          <div class="details-grid">
-            <p><strong>ISBN:</strong> {{ data.isbn || '--' }}</p>
-            <p><strong>Número de páginas:</strong> {{ data.page_number || '--' }}</p>
-            <div>
-              <p><strong>Gêneros:</strong></p>
-              <span class="badge" v-for="genre in data.genre">{{ genre }}</span>
-            </div>
-          </div>
+          <p><strong>ISBN:</strong> {{ data.isbn || '--' }}</p>
+          <p><strong>Páginas:</strong> {{ data.page_number || '--' }}</p>
+          <p><strong>Gêneros:</strong><br/>
+            <span class="badge" v-for="genre in data.genre">{{ genre }}</span>
+          </p>
         </div>
       </div>
 
@@ -87,25 +84,32 @@ const feedback = computed(() => {
 .book-tracker-container {
   .book-header {
     display: flex;
+    flex-wrap: wrap;
     gap: 20px;
     align-items: flex-start;
   }
 
   .book-header img {
-    width: 180px;
+    width: 100%;
+    max-width: 180px;
     height: auto;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 0 auto;
   }
 
   .book-info {
     flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
   }
 
   .book-info h1 {
     margin: 0 0 10px;
     font-size: 1.8rem;
     color: #6c4a4a;
+    text-align: center;
   }
 
   .book-info p {
@@ -114,12 +118,6 @@ const feedback = computed(() => {
     line-height: 1.6;
   }
 
-  .details-grid {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 10px;
-    margin: 20px 0;
-  }
 
   .details-grid p {
     margin: 0;
@@ -154,11 +152,13 @@ const feedback = computed(() => {
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
 
-  .related-section, .author-section {
+  .related-section,
+  .author-section {
     margin-top: 30px;
   }
 
-  .related-section h2, .author-section h2 {
+  .related-section h2,
+  .author-section h2 {
     margin-bottom: 10px;
     color: #6c4a4a;
   }
@@ -191,10 +191,33 @@ const feedback = computed(() => {
     text-decoration: none;
     font-weight: bold;
     font-size: 1rem;
+    text-align: center;
+    width: 100%;
   }
 
   .back-link:hover {
     text-decoration: underline;
+  }
+}
+
+/* Media Query for smaller screens */
+@media (max-width: 768px) {
+  .book-header {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .book-info {
+    gap: 15px;
+  }
+
+  .book-info h1 {
+    font-size: 1.5rem;
+  }
+
+  .book-info p {
+    font-size: 0.9rem;
   }
 }
 
