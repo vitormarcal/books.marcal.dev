@@ -18,8 +18,8 @@ feedback:
   - gostei
 book_author:
   - Yoshiyuki Sadamoto
-volume: 
-series: 
+volume: 5 de 7
+series: Neon Genesis Evangelion Collector's Edition
 favorite: 
 format:
   - físico

@@ -1,7 +1,6 @@
 <script setup lang="ts">
 
 import {formatDate} from "~/utils/date-utils";
-import is from "@sindresorhus/is";
 const props = defineProps(['data'])
 
 const readingStatus = computed(() => {
@@ -22,15 +21,13 @@ const dateRead = computed(() => {
 
 const feedbackValue = computed<'gostei' | 'neutro' | 'não gostei' | ''>(() => props.data?.feedback[0] || '');
 const feedback = computed(() => {
+  if (readingStatus.value === 'Lendo') return undefined;
   const feedbackMap: Record<'gostei' | 'neutro' | 'não gostei', { feedbackClass: string, text: string }> = {
     'gostei': {feedbackClass: 'liked', text: "Gostei 😊"},
     'neutro': {feedbackClass: 'neutral', text: "Neutro 🤔"},
     'não gostei': {feedbackClass: 'not-liked', text: "Não gostei 😞"}
   };
-  return feedbackMap[feedbackValue.value as 'gostei' | 'neutro' | 'não gostei'] || {
-    feedbackClass: 'not-evaluated',
-    text: "Não avaliado"
-  };
+  return feedbackMap[feedbackValue.value as 'gostei' | 'neutro' | 'não gostei'];
 });
 </script>
 
@@ -46,7 +43,7 @@ const feedback = computed(() => {
           <p><strong>Autor(es):</strong> {{ data.book_author.join(", ") }}</p>
           <p><strong>Data de leitura:</strong> {{ dateRead }}</p>
           <p><strong>Status data leitura:</strong> {{ readingStatus }}</p>
-          <p><strong>Avaliação:</strong> <span :class="feedback.feedbackClass">{{ feedback.text }}</span></p>
+          <p v-if="feedback"><strong>Avaliação:</strong> <span :class="feedback.feedbackClass">{{ feedback.text }}</span></p>
           <p><strong>ISBN:</strong> {{ data.isbn || '--' }}</p>
           <p><strong>Páginas:</strong> {{ data.page_number || '--' }}</p>
           <p><strong>Gêneros:</strong><br/>
