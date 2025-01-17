@@ -52,7 +52,7 @@ body.book-tracker {
   --blockquote-padding-left: 0;
 
 
-  font-family: 'Merriweather', serif;
+  font-family: 'Arial', sans-serif;
   margin: 0;
   padding: 0;
   background-color: #f7f3e9;
@@ -97,9 +97,9 @@ body.book-tracker {
   }
 
   .book-tracker-container {
-    max-width: 1000px;
+    max-width: 800px;
     margin: 30px auto;
-    background: #fff;
+    background: #f9f9f9;
     border-radius: 12px;
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.1);
     padding: 30px;
