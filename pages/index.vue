@@ -94,158 +94,158 @@ onMounted(() => {
 
 <style scoped>
 .book-tracker-container {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
-  background: #f9f9f9;
-  border-radius: 10px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  font-family: 'Arial', sans-serif;
+  h2 {
+    text-align: center;
+    font-size: 1.8em;
+    color: #333;
+    margin-bottom: 20px;
+  }
+
+  .book-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .book-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 15px 10px;
+    border-bottom: 1px solid #ddd;
+    transition: background 0.3s ease;
+  }
+
+  .book-item:hover {
+    background: #f0f0f0;
+    border-radius: 5px;
+  }
+
+  .image-container {
+    position: relative;
+    flex-shrink: 0;
+    width: 60px;
+    height: 90px; /* Proporção de capa */
+  }
+
+  .image-placeholder {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, #eee 25%, #ddd 50%, #eee 75%);
+    background-size: 200% 100%;
+    border-radius: 4px;
+    animation: shimmer 1.5s infinite;
+  }
+
+  .lazy-image {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 4px;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+  }
+
+  .lazy-image[src] {
+    opacity: 1;
+  }
+
+  .book-info {
+    flex: 1;
+  }
+
+  .book-title {
+    margin: 0;
+    font-size: 1.2em;
+    color: #333;
+  }
+
+  .book-author {
+    margin: 5px 0 0;
+    font-size: 0.9em;
+    color: #666;
+  }
+
+  .book-author span {
+    color: #444;
+  }
+
+  .details-link {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 0.9em;
+    color: var(--link_color);
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+
+  .details-link:hover {
+    color: var(--link_color_hover);
+    text-decoration: underline;
+  }
+
+  .details-link:visited {
+    color: #374f87;
+    text-decoration: underline;
+  }
+
+  .no-books {
+    text-align: center;
+    padding: 20px;
+    font-size: 1.2em;
+    color: #666;
+  }
+
+  .year-title {
+    font-size: 1.5em;
+    color: #444;
+    text-align: left;
+    margin: 20px 0 10px;
+    position: relative;
+  }
+
+  .year-title::before {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 50px;
+    height: 3px;
+    background: linear-gradient(to right, var(--link_color), var(--link_color_hover));
+    border-radius: 5px;
+  }
+
+  .year-title::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 55px;
+    width: calc(100% - 55px);
+    height: 1px;
+    background: #ddd;
+  }
+
+  .year-separator {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px 0;
+  }
+
+  .separator-icon {
+    font-size: 2em;
+    color: var(--link_color);
+    background: #fff;
+    border: 2px solid var(--link_color);
+    border-radius: 50%;
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+
 }
 
-h2 {
-  text-align: center;
-  font-size: 1.8em;
-  color: #333;
-  margin-bottom: 20px;
-}
 
-.book-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.book-item {
-  display: flex;
-  align-items: center;
-  gap: 15px;
-  padding: 15px 10px;
-  border-bottom: 1px solid #ddd;
-  transition: background 0.3s ease;
-}
-
-.book-item:hover {
-  background: #f0f0f0;
-  border-radius: 5px;
-}
-
-.image-container {
-  position: relative;
-  flex-shrink: 0;
-  width: 60px;
-  height: 90px; /* Proporção de capa */
-}
-
-.image-placeholder {
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(90deg, #eee 25%, #ddd 50%, #eee 75%);
-  background-size: 200% 100%;
-  border-radius: 4px;
-  animation: shimmer 1.5s infinite;
-}
-
-.lazy-image {
-  display: block;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  border-radius: 4px;
-  opacity: 0;
-  transition: opacity 0.3s ease-in-out;
-}
-
-.lazy-image[src] {
-  opacity: 1;
-}
-
-.book-info {
-  flex: 1;
-}
-
-.book-title {
-  margin: 0;
-  font-size: 1.2em;
-  color: #333;
-}
-
-.book-author {
-  margin: 5px 0 0;
-  font-size: 0.9em;
-  color: #666;
-}
-
-.book-author span {
-  color: #444;
-}
-
-.details-link {
-  display: inline-block;
-  margin-top: 10px;
-  font-size: 0.9em;
-  color: #007bff;
-  text-decoration: none;
-  transition: color 0.2s ease;
-}
-
-.details-link:hover {
-  color: #0056b3;
-  text-decoration: underline;
-}
-
-.no-books {
-  text-align: center;
-  padding: 20px;
-  font-size: 1.2em;
-  color: #666;
-}
-
-.year-title {
-  font-size: 1.5em;
-  color: #444;
-  text-align: left;
-  margin: 20px 0 10px;
-  position: relative;
-}
-
-.year-title::before {
-  content: '';
-  position: absolute;
-  bottom: -5px;
-  left: 0;
-  width: 50px;
-  height: 3px;
-  background: linear-gradient(to right, #007bff, #0056b3);
-  border-radius: 5px;
-}
-
-.year-title::after {
-  content: '';
-  position: absolute;
-  bottom: -5px;
-  left: 55px;
-  width: calc(100% - 55px);
-  height: 1px;
-  background: #ddd;
-}
-
-.year-separator {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  margin: 30px 0;
-}
-
-.separator-icon {
-  font-size: 2em;
-  color: #007bff;
-  background: #fff;
-  border: 2px solid #007bff;
-  border-radius: 50%;
-  padding: 10px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
 
 
 @keyframes shimmer {

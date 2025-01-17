@@ -2,7 +2,6 @@
 
 import {formatDate} from "~/utils/date-utils";
 import is from "@sindresorhus/is";
-import date = is.date;
 const props = defineProps(['data'])
 
 const readingStatus = computed(() => {
@@ -142,7 +141,6 @@ const feedback = computed(() => {
   }
 
   .review-section h2 {
-    color: #6c4a4a;
     margin-bottom: 10px;
   }
 
@@ -191,7 +189,6 @@ const feedback = computed(() => {
     display: inline-block;
     margin-top: 20px;
     text-decoration: none;
-    color: #6c4a4a;
     font-weight: bold;
     font-size: 1rem;
   }
