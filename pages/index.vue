@@ -18,15 +18,23 @@ const markImageLoaded = (key: string) => {
 // Verifica se a imagem já foi carregada
 const imageLoaded = (key: string) => loadedImages.value.includes(key);
 
+const currentlyReadingPosts = computed(() => {
+  return posts.filter(post => {
+    return post.reading_status[0] == 'reading';
+  });
+});
+
 const groupedByYear = computed(() => {
-  return posts.reduce((groups, post) => {
-    const year = new Date(post.date_read || post.updated_at || post.created_at).getFullYear();
-    if (!groups[year]) {
-      groups[year] = [];
-    }
-    groups[year].push(post);
-    return groups;
-  }, {} as Record<number, typeof posts>);
+  return posts
+      .filter(post => post.reading_status[0] !== 'reading')
+      .reduce((groups, post) => {
+        const year = new Date(post.date_read || post.updated_at || post.created_at).getFullYear();
+        if (!groups[year]) {
+          groups[year] = [];
+        }
+        groups[year].push(post);
+        return groups;
+      }, {} as Record<number, typeof posts>);
 });
 
 const groupedYearsArray = computed(() => {
@@ -54,8 +62,35 @@ onMounted(() => {
 
 <template>
   <div class="book-tracker-container">
-    <h2>📚 Livros Lidos ({{ posts.length }})</h2>
+
+    <div v-if="currentlyReadingPosts.length" class="reading-now-section">
+      <h2>📖 Lendo agora ({{ currentlyReadingPosts.length }})</h2>
+      <div class="year-separator">
+        <span class="separator-icon">🔖</span>
+      </div>
+      <ul class="book-list">
+        <li v-for="book in currentlyReadingPosts" :key="book._path" class="book-item">
+          <div class="image-container">
+            <div v-if="!imageLoaded(book._path)" class="image-placeholder"></div>
+            <img
+                :data-src="book.image"
+                alt="Capa do livro"
+                class="lazy-image"
+                @load="markImageLoaded(book._path)"
+            />
+          </div>
+          <div class="book-info">
+            <h2 class="book-title">{{ book.title }}</h2>
+            <p class="book-author">Autor(es): <span>{{ book.book_author.join(", ") }}</span></p>
+            <a :href="book._path" class="details-link">Ver detalhes</a>
+          </div>
+        </li>
+      </ul>
+    </div>
+
     <div v-if="groupedYearsArray.length" class="year-group">
+      <h2>📚 Livros Lidos ({{ posts.length }})</h2>
+
       <div class="year-separator">
         <span class="separator-icon">🏆</span>
       </div>
@@ -81,7 +116,7 @@ onMounted(() => {
         </ul>
         <!-- Ícone separador entre anos -->
         <div v-if="index < groupedYearsArray.length - 1" class="year-separator">
-          <span class="separator-icon">🌟</span>
+          <span class="separator-icon">🏆</span>
         </div>
       </div>
     </div>
@@ -243,9 +278,11 @@ onMounted(() => {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
 
+  .reading-now-section {
+    margin-bottom: 40px;
+  }
+
 }
-
-
 
 
 @keyframes shimmer {
