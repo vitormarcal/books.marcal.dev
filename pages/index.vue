@@ -27,6 +27,11 @@ const currentlyReadingPosts = computed(() => {
 const groupedByYear = computed(() => {
   return posts
       .filter(post => post.reading_status[0] !== 'reading')
+      .sort((a, b) => {
+        const dateA = new Date(a.date_read || a.updated_at || a.created_at)
+        const dateB = new Date(b.date_read || b.updated_at || b.created_at)
+        return dateB.getTime() - dateA.getTime()
+      })
       .reduce((groups, post) => {
         const year = new Date(post.date_read || post.updated_at || post.created_at).getFullYear();
         if (!groups[year]) {
