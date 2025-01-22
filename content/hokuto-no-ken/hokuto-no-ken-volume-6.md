@@ -24,7 +24,7 @@ series: Hokuto No Ken
 favorite: 
 format:
   - físico
-date_read: 2024-03-28
+date_read: 2024-03-28T15:36:00
 is_book: true
 quote: " Omae wa mou shindeiru! - Você Já está morto!"
 page_number: 296
@@ -40,7 +40,7 @@ genre:
   - pós-apocalíptico
 ---
 
-![hokuto-no-ken-volume-6](/img/hokuto-no-ken/hokuto-no-ken-volume-6.jpg)
+![hokuto-no-ken-volume-6](img/hokuto-no-ken/hokuto-no-ken-volume-6.jpg)
 
 > Kenshiro e Raoh finalmente se encontram! A batalha entre os dois é mortal, e ambos estão empatados, sem sinal de quem sairá vitorioso! Enquanto isso, Rei, que foi atingido no ponto vital secreto de Raoh e só tem três dias de vida, resolve gastar seus últimos dias para enfrentar Yuda, o homem que capturou e torturou sua amada Mamiya e também traiu os Seis Punhos Sagrados da Estrelas do Norte. "Yuda, você irá pagar sangue com sangue!"
 

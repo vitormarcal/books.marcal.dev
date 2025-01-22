@@ -23,7 +23,7 @@ series:
 favorite: 
 format:
   - físico
-date_read: 2024-05-23
+date_read: 2024-05-23T14:04:00
 is_book: true
 quote: 
 page_number: 336
@@ -38,7 +38,7 @@ genre:
   - ficção-científica
 ---
 
-![o-astronauta-de-jaroslav-kalfar](/img/o-astronauta-de-jaroslav-kalfar.jpg)
+![o-astronauta-de-jaroslav-kalfar](img/o-astronauta-de-jaroslav-kalfar.jpg)
 
 >Quando Jakub Procházka decide abandonar a vida pacata de professor e se tornar astronauta, sua expectativa era embarcar em uma viagem arriscada para coletar uma misteriosa poeira cósmica surgida entre Vênus e a Terra e voltar para casa. São e salvo.
 >Quando essa missão espacial não acontece como o planejado, Jakub passa a se sentir insuportavelmente solitário ― até fazer amizade com um estranho alienígena. Deixando o leitor na dúvida entre o que é alucinação e o que é realidade, essa dupla inusitada trava conversas profundas sobre temas diversos, de questões existenciais à maravilha do bacon.  

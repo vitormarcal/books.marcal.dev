@@ -23,7 +23,7 @@ series: Neon Genesis Evangelion Collector's Edition
 favorite: 
 format:
   - físico
-date_read: 2024-05-01
+date_read: 2024-05-01T13:33:00
 is_book: true
 quote: 
 page_number: 368
@@ -38,7 +38,7 @@ genre:
   - pscológico
 ---
 
-![neon-genesis-evangelion-collectors-edition-vol-04](/img/evangelion-collectors-edition/neon-genesis-evangelion-collectors-edition-vol-04.jpg)
+![neon-genesis-evangelion-collectors-edition-vol-04](img/evangelion-collectors-edition/neon-genesis-evangelion-collectors-edition-vol-04.jpg)
 
 > Depois do acidente que ocorreu durante a batalha contra o último Anjo, Shinji está decidido a nunca mais pilotar um Eva e confronta seu pai. Porém, enquanto Asuka e Rei enfrentam um novo e poderoso inimigo, o garoto fica sabendo mais a fundo sobre o que foi o Segundo Impacto. Já nos bastidores, uma batalha de poder se desenrola ao mesmo tempo que a origem na NERV é revelada.
 

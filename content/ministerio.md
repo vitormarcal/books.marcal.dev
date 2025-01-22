@@ -23,7 +23,7 @@ series:
 favorite: 
 format:
   - físico
-date_read: 2024-03-13
+date_read: 2024-03-13T09:30:00
 is_book: true
 quote: 
 page_number: 96
@@ -38,7 +38,7 @@ genre:
   - graphic novel
   - suspense
 ---
-![ministerio](/img/ministerio.jpg)
+![ministerio](img/ministerio.jpg)
 
 > Em um arranha-céus de cinco mil andares, a Hierarquia reina soberana sobre os funcionários que vivem, trabalham e morrem nos níveis inferiores do Ministério que administra o mundo. Assediados diariamente, sequestrados em massa para satisfazer os caprichos de uma casta intocável e utilizados como cobaias em experimentos genéticos, esses indivíduos nutrem secretamente a chama da revolta. Um deles, o jovem Carlos Pibe, resolve confrontar o sistema e embarca numa jornada em busca de sua amada, rumo aos andares superiores e inacessíveis do edifício, vigiados por um impiedoso Serviço de Segurança, cuja missão é defender os terríveis segredos que o Ministério esconde.
 > Criado pelo renomado artista argentino Francisco Solano López (O Eternauta, Evaristo) em colaboração com seu compatriota Ricardo Barreiro (Cidade, Parque Chas), Ministério destaca-se como um dos mais brilhantes exemplos de distopia sociopolítica em quadrinhos. Esta edição reúne todos os capítulos da série, originalmente publicados entre 1986 e 1987 nas páginas da revista Fierro.

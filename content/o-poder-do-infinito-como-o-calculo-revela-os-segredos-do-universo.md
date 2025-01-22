@@ -22,7 +22,7 @@ series:
 favorite: 
 format:
   - físico
-date_read: 2024-07-28
+date_read: 2024-07-28T21:10:00
 is_book: true
 quote: 
 page_number: 352
@@ -38,7 +38,7 @@ genre:
   - história
 ---
 
-![o-poder-do-infinito-como-o-calculo-revela-os-segredos-do-universo](/img/o-poder-do-infinito-como-o-calculo-revela-os-segredos-do-universo.jpg)
+![o-poder-do-infinito-como-o-calculo-revela-os-segredos-do-universo](img/o-poder-do-infinito-como-o-calculo-revela-os-segredos-do-universo.jpg)
 
 > Este livro é um convite a esquecer o temor que a simples expressão “cálculo diferencial e integral” desperta em muitos de nós, até hoje, e embarcar numa viagem eletrizante sobre a construção dessa linguagem matemática.
 

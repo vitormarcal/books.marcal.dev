@@ -24,7 +24,7 @@ series: Hokuto No Ken
 favorite: 
 format:
   - físico
-date_read: 2024-01-28
+date_read: 2024-03-28T20:08:00
 is_book: true
 quote: " Omae wa mou shindeiru! - Você Já está morto!"
 page_number: 320
@@ -40,7 +40,7 @@ genre:
   - pós-apocalíptico
 ---
 
-![hokuto-no-ken-volume-7](/img/hokuto-no-ken/hokuto-no-ken-volume-7.jpg)
+![hokuto-no-ken-volume-7](img/hokuto-no-ken/hokuto-no-ken-volume-7.jpg)
 
 > O homem mais forte do Estilo Nanto Sei-ken que controla tudo com uma administração despótica, Souther. Aquele que reverteu essa tirania foi Shu, a Estrela da Benevolência. Kenshiro resolve lutar ao seu lado e de seu grupo de Resistência, mas não consegue derrotar Souther, pois o Hokuto Shin-ken não funciona contra ele!
 

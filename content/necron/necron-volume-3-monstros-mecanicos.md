@@ -23,7 +23,7 @@ series:
 favorite: 
 format:
   - físico
-date_read: 2024-04-06
+date_read: 2024-04-06T17:35:00
 is_book: true
 quote: 
 page_number: 120
@@ -39,7 +39,7 @@ genre:
   - erótico
 ---
 
-![necron-volume-3-monstros-mecanicos](/img/necron/necron-volume-3-monstros-mecanicos.jpg)
+![necron-volume-3-monstros-mecanicos](img/necron/necron-volume-3-monstros-mecanicos.jpg)
 
 > Após deixar o navio, a doutora Frieda Boher e Necron chegam à uma pequena ilha. Eles então descobrem que essa ilha não é tão isolada quanto pensavam e terão que enfrentar a ameaça dos "Monstros Mecânicos".
 

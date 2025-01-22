@@ -22,7 +22,7 @@ series:
 favorite: 
 format:
   - digital
-date_read: 2024-07-28
+date_read: 2024-07-28T21:00:00
 is_book: true
 quote: 
 page_number: 
@@ -35,7 +35,7 @@ genre:
   - pscológico
 ---
 
-![o-processo-de-franz-kafka](/img/o-processo-de-franz-kafka.jpg)
+![o-processo-de-franz-kafka](img/o-processo-de-franz-kafka.jpg)
 
 > Na sua luta para descobrir por que o acusam, por quem é acusado e que lei ampara a acusação, K. defronta permanentemente com a impossibilidade de escolher um caminho que lhe pareça sensato ou lógico, pois o processo de que é vítima segue leis próprias: as leis do arbítrio.
 

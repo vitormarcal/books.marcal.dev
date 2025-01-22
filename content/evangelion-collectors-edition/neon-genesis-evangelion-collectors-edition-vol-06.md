@@ -23,7 +23,7 @@ series: Neon Genesis Evangelion Collector's Edition
 favorite: 
 format:
   - físico
-date_read: 2025-01-15
+date_read: 2025-01-15T22:31:00
 is_book: true
 quote: 
 page_number: 352
@@ -37,7 +37,7 @@ genre:
   - graphic novel
   - pscológico
 ---
-![neon-genesis-evangelion-collectors-edition-vol-06](/img/evangelion-collectors-edition/neon-genesis-evangelion-collectors-edition-vol-06.jpg)
+![neon-genesis-evangelion-collectors-edition-vol-06](img/evangelion-collectors-edition/neon-genesis-evangelion-collectors-edition-vol-06.jpg)
 
 > Preso às dúvidas e à solidão, após perder mais uma vez pessoas que lhe são queridas, Shinji se vê passando por uma profunda crise. Enquanto isso, a Seele decide agir para combater Gendo Ikari. A NERV está sob ataque e verdades perturbadoras estão prestes a vir à tona.
 

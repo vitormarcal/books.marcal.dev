@@ -25,7 +25,7 @@ series:
 favorite: 
 format:
   - físico
-date_read: 2024-03-07
+date_read: 2024-03-07T14:29:00
 is_book: true
 quote: É preciso reconhecer que, com a criptografia, nem toda a violência do mundo poderá resolver uma equação matemática.
 page_number: 200
@@ -40,7 +40,7 @@ genre:
   - política e ativismo
 ---
 
-![cypherpunks-liberdade-e-o-futuro-da](/img/cypherpunks-liberdade-e-o-futuro-da-internet.jpg)
+![cypherpunks-liberdade-e-o-futuro-da](img/cypherpunks-liberdade-e-o-futuro-da-internet.jpg)
 
 
 > A obra é resultado de reflexões de Assange e de um grupo vanguardista de pensadores rebeldes e ativistas que atuam nas linhas de frente da batalha em defesa do ciberespaço (Jacob Appelbaum, Andy Müller-Maguhn e Jérémie Zimmermann). A questão fundamental que o livro apresenta é: a comunicação eletrônica vai nos emancipar ou nos escravizar?Apesar de a internet ter possibilitado verdadeiras revoluções no mundo todo, Assange prevê uma futura onda de repressão na esfera on-line, a ponto de considerar a internet uma possível ameaça à civilização humana.

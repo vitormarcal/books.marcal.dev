@@ -24,7 +24,7 @@ series:
 favorite: 
 format:
   - físico
-date_read: 2024-12-24
+date_read: 2024-12-24T15:23:00
 is_book: true
 quote: 
 page_number: 588
@@ -40,7 +40,7 @@ genre:
 ---
 
 
-![o-nome-da-rosa](/img/o-nome-da-rosa.jpg)
+![o-nome-da-rosa](img/o-nome-da-rosa.jpg)
 
 > Neste mosteiro, paira a suspeita de heresia, e para a investigação é enviado o frei Guilherme de Baskerville. Porém, a delicada missão é interrompida por sete excêntricos assassinatos. A morte, em circunstâncias insólitas, de sete monges em sete dias e sete noites conduz uma narrativa violenta, que encanta pelo humor e pela crueldade, pela malícia e pela sedição erótica.
 

@@ -27,7 +27,7 @@ series: Dylan Dog Omnibus
 favorite: 
 format:
   - físico
-date_read: 2024-11-15
+date_read: 2024-11-15T12:23:00
 is_book: true
 quote: 
 page_number: 604
@@ -43,7 +43,7 @@ genre:
   - graphic novel
 ---
 
-![Dylan Dog Omnibus Vol. 1: O despertar dos mortos](/img/dylan-dog-omnibus/dylan-dog-omnibus-vol-1-o-despertar-dos-mortos.jpg)
+![Dylan Dog Omnibus Vol. 1: O despertar dos mortos](img/dylan-dog-omnibus/dylan-dog-omnibus-vol-1-o-despertar-dos-mortos.jpg)
 
 > São as 6 primeiras histórias do personagem que Tiziano Sclavi lançou em 1986 e que rapidamente se tornou um fenômeno cultural. Dylan Dog, o protagonista, é um detetive especializado em casos sobrenaturais, caracterizado por seu charme melancólico e um profundo senso de humanidade. A escrita de Sclavi, marcada por um tom sombrio, humor negro e reflexões filosóficas, elevou o quadrinho a uma posição cult, conquistando uma legião de fãs devotados. A série não só redefiniu o gênero de horror nos quadrinhos, mas também influenciou a cultura pop italiana de maneira significativa. Em uma Londres mágica e nevoenta, capital do fantástico e do terror, Dylan Dog investiga os nossos medos e os nossos desejos, os monstros que existem dentro e fora de nós: fantasmas, demônios, mortos-vivos, assassinos seriais, estados de alucinação, magias, bizarrias, infernos, outras dimensões, outros tempos e outras criaturas. Se o terror o persegue, chame Dylan Dog.
 

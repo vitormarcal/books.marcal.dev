@@ -23,7 +23,7 @@ series: Neon Genesis Evangelion Collector's Edition
 favorite: 
 format:
   - físico
-date_read: 2024-10-15
+date_read: 2024-10-15T20:56:00
 is_book: true
 quote: 
 page_number: 352
@@ -38,7 +38,7 @@ genre:
   - pscológico
 ---
 
-![neon-genesis-evangelion-collectors-edition-vol-04](/img/evangelion-collectors-edition/neon-genesis-evangelion-collectors-edition-vol-05.jpg)
+![neon-genesis-evangelion-collectors-edition-vol-04](img/evangelion-collectors-edition/neon-genesis-evangelion-collectors-edition-vol-05.jpg)
 
 > Shinji ainda sofre com a perda de um amigo próximo e se recusa a voltar para a escola. Com isso, Asuka decide tomar a frente e mostrar à NERV que pode ser tão boa piloto quanto o garoto, porém, acaba sendo afetada pelas habilidades de um anjo, comprometendo sua missão. Além de Shinji, Asuka e Rei, mais uma criança entra no cenário dos pilotos de EVA, porém, o novo garoto parece um tanto diferente do normal... especialmente quando o segredo de Rei finalmente vem à tona.
 

@@ -21,7 +21,7 @@ book_author:
 favorite: 
 format:
   - físico
-date_read: 2024-03-12
+date_read: 2024-03-12T14:14:00
 is_book: true
 quote: Os gênios não saem para jantar (??)
 page_number: 224
@@ -36,7 +36,7 @@ genre:
 publication_year: 2023
 ---
 
-![a-vida-intelectual](/img/a-vida-intelectual.jpg)
+![a-vida-intelectual](img/a-vida-intelectual.jpg)
 
 A Vida Intelectual foi uma leitura bastante recomendada em vários lugares  como Twitter, páginas na Internet, vídeos do Youtube. No entanto, minha experiência com a leitura foi decepcionante.
 

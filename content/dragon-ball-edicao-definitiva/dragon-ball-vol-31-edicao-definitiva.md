@@ -23,7 +23,7 @@ series: Dragon Ball - Edição Definitiva
 favorite: 
 format:
   - físico
-date_read: 2024-04-06
+date_read: 2024-04-06T18:00:00
 is_book: true
 quote: 
 page_number: 232
@@ -39,7 +39,7 @@ genre:
 ---
 
 
-![dragon-ball-vol-31-edicao-definitiva](/img/dragon-ball-edicao-definitiva/dragon-ball-vol-31-edicao-definitiva.jpg)
+![dragon-ball-vol-31-edicao-definitiva](img/dragon-ball-edicao-definitiva/dragon-ball-vol-31-edicao-definitiva.jpg)
 
 Que volume de tirar o fôlego!
 

@@ -29,7 +29,7 @@ series: Suspiria
 favorite: 
 format:
   - físico
-date_read: 2024-03-15
+date_read: 2024-03-15T14:30:00
 is_book: true
 quote: 
 page_number: 192
@@ -45,7 +45,7 @@ genre:
   - erótico
 ---
 
-![suspiria-do-reino-das-trevas](/img/suspiria/suspiria-do-reino-das-trevas.jpg)
+![suspiria-do-reino-das-trevas](img/suspiria/suspiria-do-reino-das-trevas.jpg)
 
 > Suspiria é a personificação onipresente do medo e do desespero. Ela perambula pela Terra desde o início dos tempos, caçando e punindo almas que não conseguem se livrar do próprio destino por pura indolência. Suspiria está sempre na companhia da sua mãe Santa Morte e das suas três irmãs: Nenia Candelaria, Sudaria e Grimoria. Elas são as Deusas das Trevas, as consoladoras da paz eterna. Uma fúria infernal ungida do Reino das Trevas, região situada nas profundezas do planeta, uma força cosmológica universal suspensa no tempo eterno por onde essa tétrade infernal se move entre os séculos de história da humanidade. Um verdadeiro asilo do universo. Suspiria: Do Reino das Trevas (Capa Dura)
 

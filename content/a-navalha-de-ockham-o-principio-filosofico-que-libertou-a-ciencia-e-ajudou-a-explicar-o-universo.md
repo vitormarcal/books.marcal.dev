@@ -35,7 +35,7 @@ genre:
   - ciência
 ---
 
-![A navalha de Ockham: O princípio filosófico que libertou a ciência e ajudou a explicar o universo](/img/a-navalha-de-ockham.jpg)
+![A navalha de Ockham: O princípio filosófico que libertou a ciência e ajudou a explicar o universo](img/a-navalha-de-ockham.jpg)
 
 A navalha de Occam mostra como a simplicidade teve e tem um papel muito importante no desenvolvimento da Ciência. Quando complicamos demais uma explicação ou uma solução, devemos retirar e cortar o desnecessário até chegarmos a uma ideia simples.
 

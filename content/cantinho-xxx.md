@@ -23,7 +23,7 @@ series:
 favorite: 
 format:
   - físico
-date_read: 2024-06-20
+date_read: 2024-06-20T22:29:00
 is_book: true
 quote: Eu era jovem e precisava da grana
 page_number: 
@@ -38,7 +38,7 @@ genre:
   - humor
 ---
 
-![cantinho-xxx](/img/cantinho-xxx.jpg)
+![cantinho-xxx](img/cantinho-xxx.jpg)
 >Era início dos anos 2000 e Caio Oliveira já tinha contas para pagar. Além disso, ele queria entrar para o mercado editorial de quadrinhos no Brasil, de qualquer maneira.
 
 Já faz um tempo que acompanho Caio Oliveira, do "Cantinho do Caio", nas redes sociais. Sempre que sai alguma coisa dele no Catarse, tento apoiar.

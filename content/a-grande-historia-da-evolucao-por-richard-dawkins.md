@@ -19,7 +19,7 @@ book_author:
 favorite: 
 format:
   - físico
-date_read: 2024-10-04
+date_read: 2024-10-04T09:35:00
 is_book: true
 quote: Saltar abismos não é o que a evolução faz.
 page_number: 792
@@ -33,7 +33,7 @@ genre:
   - ciência
 ---
 
-![A Grande História da Evolução, por Richard Dawkins](/img/a-grande-historia-da-evolucao-por-richard-dawkins.jpg)
+![A Grande História da Evolução, por Richard Dawkins](img/a-grande-historia-da-evolucao-por-richard-dawkins.jpg)
 
 Como sempre, Richard Dawkins escreve de uma maneira bem fluida, e, portanto, este é um ótimo livro de divulgação científica. Há ouro aqui.
 

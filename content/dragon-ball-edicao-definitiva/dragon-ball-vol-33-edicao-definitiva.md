@@ -23,7 +23,7 @@ series: Dragon Ball - Edição Definitiva
 favorite: 
 format:
   - físico
-date_read: 2024-09-14
+date_read: 2024-09-14T12:20:00
 is_book: true
 quote: 
 page_number: 240
@@ -38,7 +38,7 @@ genre:
   - shonen
 ---
 
-![dragon-ball-vol-33-edicao-definitiva](/img/dragon-ball-edicao-definitiva/dragon-ball-vol-33-edicao-definitiva.jpg)
+![dragon-ball-vol-33-edicao-definitiva](img/dragon-ball-edicao-definitiva/dragon-ball-vol-33-edicao-definitiva.jpg)
 
 Estamos chegando à reta final; este é o penúltimo volume de _Dragon Ball_.
 

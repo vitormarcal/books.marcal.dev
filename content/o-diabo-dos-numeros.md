@@ -24,7 +24,7 @@ series:
 favorite: 
 format:
   - digital
-date_read: 2024-11-21
+date_read: 2024-11-21T22:19:00
 is_book: true
 quote: 
 page_number: 272
@@ -39,7 +39,7 @@ genre:
   - ficção-matemática
 ---
 
-![o-diabo-dos-numeros](/img/o-diabo-dos-numeros.jpg)
+![o-diabo-dos-numeros](img/o-diabo-dos-numeros.jpg)
 
 >Sabe de uma coisa ? A maioria dos matemáticos de verdade nem sabe fazer contas . E, além do mais , eles nem têm tempo para isso . Para fazer contas existem as calculadoras.
 

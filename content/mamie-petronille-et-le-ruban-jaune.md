@@ -23,7 +23,7 @@ series:
 favorite: 
 format:
   - físico
-date_read: 2024-08-30
+date_read: 2024-08-30T10:00:00
 is_book: true
 quote: 
 page_number: 32
@@ -39,7 +39,7 @@ genre:
 ---
 ----
 
-![mamie-petronille-et-le-ruban-jaune](/img/mamie-petronille-et-le-ruban-jaune.jpg)
+![mamie-petronille-et-le-ruban-jaune](img/mamie-petronille-et-le-ruban-jaune.jpg)
 ----
 
 J'ai commencé à étudier la langue française et c'est le premier petit livre que j'ai lu ! Ci-dessous se trouve le texte, afin que je puisse le réviser facilement quand j'en aurai besoin.

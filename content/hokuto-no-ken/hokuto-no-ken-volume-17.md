@@ -24,7 +24,7 @@ series: Hokuto No Ken
 favorite: 
 format:
   - físico
-date_read: 2024-10-15
+date_read: 2024-10-15T20:35:00
 is_book: true
 quote: " Omae wa mou shindeiru! - Você Já está morto!"
 page_number: 288
@@ -40,6 +40,6 @@ genre:
   - pós-apocalíptico
 ---
 
-![hokuto-no-ken-volume-17](/img/hokuto-no-ken/hokuto-no-ken-volume-17.jpg)
+![hokuto-no-ken-volume-17](img/hokuto-no-ken/hokuto-no-ken-volume-17.jpg)
 
 Honestamente, depois da emocionante e reveladora conclusão do último arco, no volume anterior, achei este volume chato e anticlimático. A história deveria ter terminado no volume 17. De qualquer forma, que venha o próximo e último volume, o 18 — que eu espero tenha um final decente!

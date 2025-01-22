@@ -23,7 +23,7 @@ series:
 favorite: 
 format:
   - físico
-date_read: 2024-02-15
+date_read: 2024-02-15T16:44:00
 is_book: true
 quote: 
 page_number: 220
@@ -38,7 +38,7 @@ genre:
   - pscológico
 ---
 
-![Oshi no Ko - Minha Estrela Preferida Vol. 01](/img/oshi-no-ko-1-1.jpg)
+![Oshi no Ko - Minha Estrela Preferida Vol. 01](img/oshi-no-ko-1-1.jpg)
 
 > “Nesta indústria, a mentira é uma arma.”Goro é um obstetra trabalhando em uma cidade do interior e sem qualquer ligação com a indústria do entretenimento. Por outro lado, Ai Hoshino, sua idol favorita, começava a subir no estrelato. Mas, por um acaso do destino, a vida de ambos será mudada radicalmente...?
 

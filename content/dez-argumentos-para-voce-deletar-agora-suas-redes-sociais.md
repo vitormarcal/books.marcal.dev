@@ -24,7 +24,7 @@ series:
 favorite: 
 format:
   - digital
-date_read: 2023-12-18
+date_read: 2023-12-18T18:07:00
 is_book: true
 quote: Para se libertar, ser mais autêntico, menos viciado, menos manipulado, menos paranoico... por todos esses motivos maravilhosos, delete suas contas nas redes sociais.
 page_number: 178
@@ -39,7 +39,7 @@ genre:
   - crítica cultural
 ---
 
-![Dez argumentos para você deletar agora suas redes sociais - Jaron Lanier](/img/dez-argumentos-para-deletar.jpg)
+![Dez argumentos para você deletar agora suas redes sociais - Jaron Lanier](img/dez-argumentos-para-deletar.jpg)
 
 A leitura deste livro trouxe algumas boas impressões sobre como o vício nas telas e nas redes sociais pode nos causar problemas tanto como indivíduos quanto para a sociedade em geral. Não que eu pretenda excluir todas as minhas redes sociais, que não são tantas assim, entretanto, o uso consciente das tecnologias se faz realmente necessário.
 

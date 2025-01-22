@@ -25,7 +25,7 @@ series:
 favorite: 
 format:
   - físico
-date_read: 2024-05-18
+date_read: 2024-05-18T22:01:00
 is_book: true
 quote: 
 page_number: 176
@@ -39,7 +39,7 @@ genre:
   - graphic novel
 ---
 
-![the-darkness-volume-1](/img/the-darkness/the-darkness-volume-1.jpg)
+![the-darkness-volume-1](img/the-darkness/the-darkness-volume-1.jpg)
 
 > O submundo do crime da cidade de Nova York é um lugar sombrio e brutal, mas nunca viu um horror como este…do aclamado escritor Garth Ennis e do atual CEO da Image Comics, Marc Silvestri conheça o maior prodígio dos assassinos da máfia italiana: Jackie Estacado.
    Em seu aniversário de 21 anos o jovem mafioso Jackie Estacado descobre que possui uma herança poderosa e que passa de geração em geração. Ele é o herdeiro da Escuridão e agora vai ter que lidar com diversos inimigos que desejam este poder para si!

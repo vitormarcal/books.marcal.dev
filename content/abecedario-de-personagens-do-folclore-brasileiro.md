@@ -21,7 +21,7 @@ book_author:
 favorite: 
 format:
   - físico
-date_read: 2024-11-23
+date_read: 2024-11-23T10:38:00
 is_book: true
 quote: É preciso  lembrar que um dos legados mais importantes de uma nação é sua memória ficcional; nela encontramos suas origens culturais.
 page_number: 416
@@ -37,7 +37,7 @@ genre:
   - mitologia
 ---
 
-![abecedario-de-personagens-do-folclore-brasileiro](/img/abecedario-de-personagens-do-folclore-brasileiro.jpg)
+![abecedario-de-personagens-do-folclore-brasileiro](img/abecedario-de-personagens-do-folclore-brasileiro.jpg)
 
 > Este livro reúne 141 personagens significativas e recorrentes do nosso folclore, com um recorte que busca contemplar a diversidade de origens – indígena, africana, europeia e oriental – como elemento constituinte da cultura brasileira. São humanos, bichos e seres fantásticos, que convivem e se misturam nas histórias populares. Cada personagem é apresentada em forma de verbete ilustrado, que descreve suas características físicas e psicológicas, sua origem e as narrativas em que aparece. O texto ainda faz a relação cultural e literária com outras fontes da bibliografia. As ilustrações ressaltam os traços físicos e de caráter ou mostram determinada situação da aventura folclórica do ser mítico.
 

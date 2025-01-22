@@ -24,7 +24,7 @@ series: Hokuto No Ken
 favorite: 
 format:
   - físico
-date_read: 2024-03-27
+date_read: 2024-03-27T18:24:00
 is_book: true
 quote: " Omae wa mou shindeiru! - Você Já está morto!"
 page_number: 312
@@ -40,7 +40,7 @@ genre:
   - pós-apocalíptico
 ---
 
-![hokuto-no-ken-volume-4](/img/hokuto-no-ken/hokuto-no-ken-volume-4.jpg)
+![hokuto-no-ken-volume-4](img/hokuto-no-ken/hokuto-no-ken-volume-4.jpg)
 
 > O homem que fez as sete feridas no peito de Kenshiro e tentou fazê-lo desistir de seu próprio nome… ele é nada mais, nada menos do que o irmão mais velho do nosso herói e usuário do Hokuto Shin-ken, Jagi! Jagi nutre um rancor imenso por seu irmão mais novo ter sido escolhido como sucessor do Hokuto Shin-ken. A raiva de Kenshiro contra a paranóia de Jagi! Quem vencerá?!
 

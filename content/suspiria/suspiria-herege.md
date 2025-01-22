@@ -28,7 +28,7 @@ series: Suspiria
 favorite: 
 format:
   - físico
-date_read: 
+date_read: 2024-06-26T21:11:00
 is_book: true
 quote: 
 page_number: 160
@@ -44,7 +44,7 @@ genre:
   - erótico
 ---
 
-![suspiria-do-reino-das-trevas](/img/suspiria/suspiria-herege.jpg)
+![suspiria-do-reino-das-trevas](img/suspiria/suspiria-herege.jpg)
 
 > Suspiria, a manifestação onipresente do medo e desespero, vagueia pela Terra desde o alvorecer dos tempos, punindo almas inertes diante do próprio destino. Nesta edição, somos levados ao coração sombrio do universo Suspiriano, onde o legado de H.P. Lovecraft se entrelaça em uma dança macabra de desespero e redenção. Com a Santa Morte e as irmãs de Suspiria ao lado, exploramos a história não contada do exílio de Lúcifer, uma jornada que ressoará através da eternidade. Cada traço de Luca Laca e Andrea Bulgarelli aprofunda a narrativa, criando uma tapeçaria visual sombria e envolvente.
 

@@ -39,7 +39,7 @@ genre:
   - pscológico
 ---
 
-![Mandíbula - Mónica Ojeda](/img/mandibula-1.jpg)
+![Mandíbula - Mónica Ojeda](img/mandibula-1.jpg)
 
 Foi certamente uma leitura que me causou estranheza em diversos momentos, muito pela forma como Mónica constrói sua narrativa. Ela não segue um padrão entre os capítulos, mudando a forma de diálogo, sua intensidade e até mesmo o tempo-espaço.
 
@@ -47,7 +47,7 @@ Causa estranheza, mas provou ser uma forma bastante acertada de prender a atenç
 
 Um grupo de jovens meninas forma uma espécie de clube secreto em um prédio abandonado. Esse local acaba se tornando um lugar para as meninas extravasarem e liberarem todo o sentimento reprimido por sua criação (tanto na família quanto na escola). Isso me lembrou um pouco do mangá "Aku no Hana - As Flores do Mal" de Shūzō Oshimi; os temas das obras conversam um pouco. Jovens reprimidos com imagens comportadas experimentam a liberdade transgredindo, quebrando regras, sentindo-se vivos à medida que quebram e usam da violência, mostrando seus lados mais animalescos, explorando seus corpos e mentes.
 
-![Aku no Hana - As Flores do Mal de Shūzō Oshimi](/img/mandibula-2-aku-no-hana-as-flores-do-mal.png)
+![Aku no Hana - As Flores do Mal de Shūzō Oshimi](img/mandibula-2-aku-no-hana-as-flores-do-mal.png)
 
 
 

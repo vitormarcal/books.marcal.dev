@@ -24,7 +24,7 @@ series: Hokuto No Ken
 favorite: 
 format:
   - físico
-date_read: 2024-03-31
+date_read: 2024-03-31T18:16:00
 is_book: true
 quote: " Omae wa mou shindeiru! - Você Já está morto!"
 page_number: 320
@@ -40,7 +40,7 @@ genre:
   - pós-apocalíptico
 ---
 
-![hokuto-no-ken-volume-8](/img/hokuto-no-ken/hokuto-no-ken-volume-8.jpg)
+![hokuto-no-ken-volume-8](img/hokuto-no-ken/hokuto-no-ken-volume-8.jpg)
 
 > Chegou a hora de Kenshiro enfrentar a derradeira batalha contra Souther. Mas para vencer um oponente tão poderoso, Ken terá de descobrir o segredo do corpo imortal dele. Já os irmãos Raoh e Toki terão de encarar o cruel destino que lhes foi predestinado: lutar até a morte para descobrir quem será o sucessor do Hokuto Shin-Ken.
 

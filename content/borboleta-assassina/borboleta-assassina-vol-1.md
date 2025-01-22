@@ -23,7 +23,7 @@ series: Borboleta Assassina
 favorite: 
 format:
   - físico
-date_read: 2024-09-07
+date_read: 2024-09-07T16:48:00
 is_book: true
 quote: 
 page_number: 388
@@ -37,7 +37,7 @@ genre:
   - graphic novel
 ---
 
-![borboleta-assassina-vol-1](/img/borboleta-assassina-vol-1.jpeg)
+![borboleta-assassina-vol-1](img/borboleta-assassina-vol-1.jpeg)
 
 > Yoshiwara, o famoso bairro da luz vermelha no Japão, é o lar de Kochou, cortesã de luxo que brilha por onde passa... mas, nas sombras, assume a identidade de Ochou, uma shinobi (ou ninja) cuja missão é caçar antigos companheiros renegados...
 

@@ -24,7 +24,7 @@ series:
 favorite: 
 format:
   - físico
-date_read: 2024-06-21
+date_read: 2024-06-21T14:15:00
 is_book: true
 quote: 
 page_number: 64
@@ -38,7 +38,7 @@ genre:
   - graphic novel
 ---
 
-![hq-heros-americains](/img/hq-heros-americains.jpg)
+![hq-heros-americains](img/hq-heros-americains.jpg)
 
 >Coraline tem um namorado: O DJ. Só que ele não sabe disso. O DJ costuma tocar pelos subúrbios élficos do bairro que ele e Coraline moram.Nesse mundo, os elfos foram seduzidos pela modernidade e perderam suas raízes ancestrais. Se tornaram materialistas e consumistas, perdendo o seu contato com a natureza. As florestas do mundo viraram grandes favelas élficas e os elfos se adaptaram a cultura e a tecnologia humana.
 

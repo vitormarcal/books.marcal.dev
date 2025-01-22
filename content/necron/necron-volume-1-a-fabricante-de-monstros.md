@@ -23,7 +23,7 @@ series:
 favorite: 
 format:
   - físico
-date_read: 2024-03-08
+date_read: 2024-03-08T09:22:00
 is_book: true
 quote: 
 page_number: 120
@@ -39,7 +39,7 @@ genre:
   - horror
 ---
 
-![necron-volume-1-a-fabricante-de-monstros](/img/necron/necron-volume-1-a-fabricante-de-monstros.jpg)
+![necron-volume-1-a-fabricante-de-monstros](img/necron/necron-volume-1-a-fabricante-de-monstros.jpg)
 
 >Necron é uma paródia sexy de Frankenstein e apresenta as aventuras da Dra. Frieda Boher, uma ninfomaníaca necrófila, e de sua criatura, Necron, um humanóide forte, bem dotado e canibal, criado com partes de cadáveres para satisfazer os desejos de Frieda.
 

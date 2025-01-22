@@ -24,7 +24,7 @@ series: Hokuto No Ken
 favorite: 
 format:
   - físico
-date_read: 2024-03-23
+date_read: 2024-03-23T19:35:00
 is_book: true
 quote: " Omae wa mou shindeiru! - Você Já está morto!"
 page_number: 312
@@ -40,7 +40,7 @@ genre:
   - pós-apocalíptico
 ---
 
-![hokuto-no-ken-volume-1](/img/hokuto-no-ken/hokuto-no-ken-volume-1.jpg)
+![hokuto-no-ken-volume-1](img/hokuto-no-ken/hokuto-no-ken-volume-1.jpg)
 
 > O ano é 199X. O mundo foi devastado por chamas nucleares. A sociedade civilizada foi dizimada, e agora a violência rege esse novo mundo. É uma Era onde apenas os mais fortes sobrevivem. Neste cenário pós-apocalíptico, um homem com sete feridas no peito vaga pelo deserto… Ele é aquele que foi escolhido como o sucessor do estilo assassino terrível, o herdeiro do Hokuto Shin-ken. Ele é Kenshiro!! A lenda do salvador da humanidade está prestes a começar. Mas aqueles que ousarem se interpor em seu caminho sentirão a fúria do seu punho… “Você já está morto!”
 

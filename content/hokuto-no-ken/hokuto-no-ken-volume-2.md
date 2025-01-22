@@ -24,7 +24,7 @@ series: Hokuto No Ken
 favorite: 
 format:
   - físico
-date_read: 2024-03-24
+date_read: 2024-03-24T11:35:00
 is_book: true
 quote: " Omae wa mou shindeiru! - Você Já está morto!"
 page_number: 312
@@ -40,7 +40,7 @@ genre:
   - pós-apocalíptico
 ---
 
-![hokuto-no-ken-volume-2](/img/hokuto-no-ken/hokuto-no-ken-volume-2.jpg)
+![hokuto-no-ken-volume-2](img/hokuto-no-ken/hokuto-no-ken-volume-2.jpg)
 
 > Para salvar a pequena Lin, Kenshiro invade sozinho e destrói a cidade de Godland. Porém, o justiceiro errante mal terá tempo de descansar, pois Jakal, um inimigo ainda mais cruel, ataca a comunidade de Batt! Jakal é um homem sanguinário e muito estratégico, e marca Kenshiro como seu próximo alvo!
 

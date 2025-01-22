@@ -24,7 +24,7 @@ series: Hokuto No Ken
 favorite: 
 format:
   - físico
-date_read: 2024-03-28
+date_read: 2024-03-28T15:35:00
 is_book: true
 quote: " Omae wa mou shindeiru! - Você Já está morto!"
 page_number: 288
@@ -40,7 +40,7 @@ genre:
   - pós-apocalíptico
 ---
 
-![hokuto-no-ken-volume-5](/img/hokuto-no-ken/hokuto-no-ken-volume-5.jpg)
+![hokuto-no-ken-volume-5](img/hokuto-no-ken/hokuto-no-ken-volume-5.jpg)
 
 > Kenshiro se dirige até a prisão lendária Cassandra para salvar seu irmão Toki. Diante de Kenshiro, ergue-se Uighur, o impiedoso dono da prisão lendária.
 

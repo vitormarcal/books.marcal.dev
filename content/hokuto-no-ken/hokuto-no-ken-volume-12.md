@@ -24,7 +24,7 @@ series: Hokuto No Ken
 favorite: 
 format:
   - físico
-date_read: 2024-09-16
+date_read: 2024-09-16T22:24:00
 is_book: true
 quote: " Omae wa mou shindeiru! - Você Já está morto!"
 page_number: 298
@@ -40,7 +40,7 @@ genre:
   - pós-apocalíptico
 ---
 
-![hokuto-no-ken-volume-12](/img/hokuto-no-ken/hokuto-no-ken-volume-12.jpg)
+![hokuto-no-ken-volume-12](img/hokuto-no-ken/hokuto-no-ken-volume-12.jpg)
 
 > Bat e Lin, liderando a Armada de Hokuto, avançam para cima do exército da Capital Imperial enquanto Kenshiro precisa enfrentar Falco, o Dourado, sucessor do estilo Gento Ko-ken.Hokuto Shin-ken e Gento Ko-ken…Ambos são guerreiros que carregam a estrela protetora do Imperador Celestial, e no momento em que colidirem, o Céu se partirá em dois!“Vou derrubá-lo, pelo meu amigo! Não tenho outra escolha!!”
 

@@ -24,7 +24,7 @@ series: Hokuto No Ken
 favorite: 
 format:
   - físico
-date_read: 2024-07-16
+date_read: 2024-07-16T18:08:00
 is_book: true
 quote: " Omae wa mou shindeiru! - Você Já está morto!"
 page_number: 304
@@ -40,7 +40,7 @@ genre:
   - pós-apocalíptico
 ---
 
-![hokuto-no-ken-volume-11](/img/hokuto-no-ken/hokuto-no-ken-volume-11.jpg)
+![hokuto-no-ken-volume-11](img/hokuto-no-ken/hokuto-no-ken-volume-11.jpg)
 
 > Depois de inúmeras batalhas mortais com amigos e rivais, a paz finalmente voltou, e Kenshiro pôde passar os últimos momentos de Yuria ao seu lado.Porém, o mundo voltou a ficar conturbado...Será que os olhos de Kenshiro, que perderam tudo uma vez, conseguirão recuperar a luz da esperança novamente?A história secreta do salvador do século é finalmente revelada!“Vamos andar juntos, abraçando o destino do sucessor do Hokuto Shin‑ken!”
 

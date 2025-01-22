@@ -20,7 +20,7 @@ book_author:
 favorite: 
 format:
   - físico
-date_read: 2024-11-03
+date_read: 2024-11-03T17:18:00
 is_book: true
 quote: 
 page_number: 616
@@ -33,7 +33,7 @@ reading_status:
 genre:
   - filosofia
 ---
-![antifragil-coisas-que-se-beneficiam-com-o-caos](/img/antifragil-coisas-que-se-beneficiam-com-o-caos.jpg)
+![antifragil-coisas-que-se-beneficiam-com-o-caos](img/antifragil-coisas-que-se-beneficiam-com-o-caos.jpg)
 
 > Do autor dos best-sellers _A lógica do Cisne Negro_ e _Arriscando a própria pele_, _Antifrágil_ revela como prosperar em um mundo de incertezas. Extremamente ambicioso e multidisciplinar, Antifrágil é sobre como se comportar ― e prosperar ― em um mundo cheio de imprevistos. Erudita e espirituosa, a mensagem de Taleb é revolucionária: o que não é antifrágil certamente sucumbirá.
 

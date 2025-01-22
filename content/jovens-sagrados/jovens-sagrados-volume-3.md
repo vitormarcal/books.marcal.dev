@@ -23,7 +23,7 @@ series:
 favorite: 
 format:
   - físico
-date_read: 
+date_read: 2024-02-07T10:02:00
 is_book: true
 quote: 
 page_number: 
@@ -38,7 +38,7 @@ genre:
   - graphic novel
 ---
 
-![Jovens Sagrados](/img/sant-young-man-1-a-3-1.jpg)
+![Jovens Sagrados](img/sant-young-man-1-a-3-1.jpg)
 
 > O humano despertado, Buda e o filho de Deus, Jesus. Após superarem com sucesso o final do século, ambos dividem um apartamento em Tachikawa, Tóquio, para passarem as férias. Buda, que se preocupa com o menor dos trocados como uma senhorinha e Jesus, que compra muito por impulso. Esse é o cotidiano da dupla divina em Tachikawa.
 

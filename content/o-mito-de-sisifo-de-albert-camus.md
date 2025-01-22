@@ -22,7 +22,7 @@ series:
 favorite: 
 format:
   - físico
-date_read: 2024-05-01
+date_read: 2024-05-01T09:52:00
 is_book: true
 quote: 
 page_number: 160
@@ -36,7 +36,7 @@ genre:
   - filosofia
 ---
 
-![o-mito-de-sisifo-de-albert-camus](/img/o-mito-de-sisifo-de-albert-camus.jpg)
+![o-mito-de-sisifo-de-albert-camus](img/o-mito-de-sisifo-de-albert-camus.jpg)
 
 > Albert Camus, um dos escritores e intelectuais mais influentes do século XX, publicou O mito de Sísifo em 1942. Este ensaio sobre o absurdo tornou-se uma importante contribuição filosófico-existencial e exerceu profunda influência sobre toda uma geração. Camus destaca o mundo imerso em irracionalidades e lembra Sísifo, condenado pelos deuses a empurrar incessantemente uma pedra até o alto da montanha, de onde ela tornava a cair, caracterizando seu trabalho como inútil e sem esperança.
 

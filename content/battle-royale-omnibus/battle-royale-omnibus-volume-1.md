@@ -24,7 +24,7 @@ series: Battle Royale Omnibus
 favorite: 
 format:
   - físico
-date_read: 2024-07-23
+date_read: 2024-07-23T21:42:00
 is_book: true
 quote: 
 page_number: 620
@@ -40,7 +40,7 @@ genre:
   - pscológico
 ---
 
-![battle-royale-omnibus-volume-1](/img/battle-royale-omnibus/battle-royale-omnibus-volume-1.jpg)
+![battle-royale-omnibus-volume-1](img/battle-royale-omnibus/battle-royale-omnibus-volume-1.jpg)
 
 Clássico. Comparado a ele, `Jogos Vorazes` é história para adolescente. Na verdade, esse best-seller praticamente deu origem ao gênero `battle royale` nos filmes, jogos, mangás e animes.
 
