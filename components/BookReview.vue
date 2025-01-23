@@ -53,7 +53,7 @@ const feedback = computed(() => {
       </div>
 
       <div class="review-section">
-        <h2>Minha Review</h2>
+        <h2>Minha Análise</h2>
         <ContentRenderer :value="data"/>
       </div>
 
