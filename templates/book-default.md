@@ -5,7 +5,9 @@ author: Vítor Marçal
 created_at: 
 updated_at: 
 is_post: true
-tags: 
+tags:
+  - livros
+  - portugues
 related: 
 image: img/{{title}}.jpg
 language: pt
@@ -31,5 +33,5 @@ reading_status:
   - completed
   - abandoned
   - reading
-genre: []
+genre:
 ---
