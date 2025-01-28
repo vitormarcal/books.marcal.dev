@@ -80,20 +80,20 @@ body.book-tracker {
     overflow: hidden;
   }
   header h1 {
-    animation: fadeIn 1s ease-in-out;
+    animation: fadeIn 4s ease-in-out;
   }
   header .quote {
     margin-top: 20px;
     font-size: 1.2rem;
     font-style: italic;
-    animation: fadeIn 2s ease-in-out;
+    animation: fadeIn 4s ease-in-out;
   }
   header .floating-book {
     position: absolute;
     top: 10px;
     right: 10px;
     width: 60px;
-    animation: bounce 2s infinite;
+    animation: bounce 4s infinite;
   }
 
   .book-tracker-container {

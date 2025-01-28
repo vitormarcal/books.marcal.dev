@@ -24,7 +24,7 @@ format:
   - digital
 date_read: 
 is_book: true
-quote: 
+quote: Ao verme que primeiro roeu as frias carnes do meu cadáver dedico como saudosa lembrança estas Memórias póstumas
 page_number: 367
 publisher:
   - Penguin-Companhia
