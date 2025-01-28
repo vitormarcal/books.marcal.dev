@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "book-default"
             }
-          },
-          {
-            "id": "2c382c63911d264a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/memorias-postumas-de-bras-cubas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "memorias-postumas-de-bras-cubas"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,10 +164,11 @@
   },
   "active": "33375b5febf020c1",
   "lastOpenFiles": [
+    "content/memorias-postumas-de-bras-cubas.md",
+    "a-felicidade-na-visao-de-bras-cubas.md",
     "public/img/memorias-postumas-de-bras-cubas.png",
     "public/img/img.png",
     "templates/book-default.md",
-    "content/memorias-postumas-de-bras-cubas.md",
     "content/o-cotidiano-da-burocracia-o-amadorismo-no-dia-a-dia-do-servico-publico-federal.md~",
     "content/o-cotidiano-da-burocracia-o-amadorismo-no-dia-a-dia-do-servico-publico-federal.md",
     "public/img/o-cotidiano-da-burocracia-o-amadorismo-no-dia-a-dia-do-servico-publico-federal.png",

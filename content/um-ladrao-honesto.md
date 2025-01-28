@@ -25,7 +25,7 @@ format:
   - digital
 date_read: 2023-12-19T16:09:00
 is_book: true
-quote: 
+quote: Ao meu ver, não há um verme pior no mundo do que um ladrão. Outros podem levar algo de graça, mas um ladrão rouba o trabalho das suas mãos, o suor da sua testa, o seu tempo...
 page_number: 22
 publisher: 
 publication_year: 
