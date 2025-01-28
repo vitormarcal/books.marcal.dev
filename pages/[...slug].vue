@@ -7,6 +7,11 @@ const {data} = await useAsyncData(route.path, () => queryContent()
     })
     .findOne())
 
+const bookStore = useBookStore()
+onMounted(async () => {
+  await bookStore.setHeaderQuote(data.value?.quote)
+})
+
 </script>
 
 <template>

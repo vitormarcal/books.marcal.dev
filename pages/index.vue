@@ -47,7 +47,10 @@ const groupedYearsArray = computed(() => {
       .sort((a, b) => Number(b[0]) - Number(a[0]));
 });
 
+const bookStore = useBookStore()
+
 onMounted(() => {
+  bookStore.resetQuoteToDefault()
   // Configura o IntersectionObserver
   const observer = new IntersectionObserver((entries, observer) => {
     entries.forEach((entry) => {
