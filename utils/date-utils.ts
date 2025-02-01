@@ -5,6 +5,5 @@ export const formatDate = (dateString: string): string | undefined => {
         year: 'numeric',
         month: 'short',
         day: 'numeric',
-        timeZone: 'UTC',
     });
 };
