@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/book-default.md",
+                "file": "content/memorias-postumas-de-bras-cubas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "book-default"
+              "title": "memorias-postumas-de-bras-cubas"
             }
           }
         ]
@@ -162,13 +162,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "33375b5febf020c1",
+  "active": "c2a1611cd9afabba",
   "lastOpenFiles": [
+    "pages/[...slug].vue~",
+    "stores/book.ts~",
+    "templates/book-default.md",
     "content/memorias-postumas-de-bras-cubas.md",
     "a-felicidade-na-visao-de-bras-cubas.md",
     "public/img/memorias-postumas-de-bras-cubas.png",
     "public/img/img.png",
-    "templates/book-default.md",
     "content/o-cotidiano-da-burocracia-o-amadorismo-no-dia-a-dia-do-servico-publico-federal.md~",
     "content/o-cotidiano-da-burocracia-o-amadorismo-no-dia-a-dia-do-servico-publico-federal.md",
     "public/img/o-cotidiano-da-burocracia-o-amadorismo-no-dia-a-dia-do-servico-publico-federal.png",
@@ -201,9 +203,7 @@
     "content/necron/necron-volume-3-monstros-mecanicos.md",
     "content/necron/necron-volume-4-as-mulheres-aranhas.md",
     "content/the-darkness/the-darkness-volume-1.md",
-    "content/suspiria/suspiria-herege.md",
     "content/jovens-sagrados/jovens-sagrados-volume-2.md~",
-    "content/monstro-do-pantano-edicao-absoluta/monstro-do-pantano-vol-1-edicao-absoluta.md~",
-    "content/necron/necron-volume-4-as-mulheres-aranhas.md~"
+    "content/monstro-do-pantano-edicao-absoluta/monstro-do-pantano-vol-1-edicao-absoluta.md~"
   ]
 }
