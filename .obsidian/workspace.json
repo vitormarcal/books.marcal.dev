@@ -55,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -179,10 +180,11 @@
   },
   "active": "2588a0b733d56ab1",
   "lastOpenFiles": [
-    "public/img/o-ninho-do-terror.png",
-    "public/img/o-ninho-do-terror.webp",
     "content/memorias-postumas-de-bras-cubas.md",
     "content/o-ninho-do-terror.md",
+    "content/a-vida-intelectual.md",
+    "public/img/o-ninho-do-terror.png",
+    "public/img/o-ninho-do-terror.webp",
     "content/memorias-postumas-de-bras-cubas.md~",
     "utils/date-utils.ts~",
     "pages/[...slug].vue~",
