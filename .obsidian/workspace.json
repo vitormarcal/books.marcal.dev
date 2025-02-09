@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/o-ninho-do-terror.md",
+                "file": "content/necron/necron-volume-5-a-nobreza-depravada.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "o-ninho-do-terror"
+              "title": "necron-volume-5-a-nobreza-depravada"
             }
           }
         ],
@@ -180,8 +180,17 @@
   },
   "active": "2588a0b733d56ab1",
   "lastOpenFiles": [
-    "content/memorias-postumas-de-bras-cubas.md",
+    "content/necron/necron-volume-6-massacre-no-trem-noturno.md",
+    "content/necron/necron-volume-5-a-nobreza-depravada.md",
+    "public/img/necron/necron-volume-6-massacre-no-trem-noturno.png",
+    "public/img/necron/img.png",
+    "content/necron/necron-volume-4-as-mulheres-aranhas.md",
+    "public/img/necron/necron-volume-5-a-nobreza-depravada.png",
+    "content/necron/necron-volume-3-monstros-mecanicos.md",
+    "content/necron/necron-volume-2-o-navio-dos-leprosos.md",
+    "content/necron/necron-volume-1-a-fabricante-de-monstros.md",
     "content/o-ninho-do-terror.md",
+    "content/memorias-postumas-de-bras-cubas.md",
     "content/a-vida-intelectual.md",
     "public/img/o-ninho-do-terror.png",
     "public/img/o-ninho-do-terror.webp",
@@ -215,13 +224,6 @@
     "templates",
     "content/manual-de-psicologia-cognitiva.md",
     "components/BookReview.vue~",
-    "content/hokuto-no-ken/hokuto-no-ken-volume-7.md",
-    "content/jovens-sagrados/jovens-sagrados-volume-1.md",
-    "content/jovens-sagrados/jovens-sagrados-volume-2.md",
-    "content/jovens-sagrados/jovens-sagrados-volume-3.md",
-    "content/necron/necron-volume-2-o-navio-dos-leprosos.md",
-    "content/necron/necron-volume-1-a-fabricante-de-monstros.md",
-    "content/necron/necron-volume-3-monstros-mecanicos.md",
-    "content/necron/necron-volume-4-as-mulheres-aranhas.md"
+    "content/hokuto-no-ken/hokuto-no-ken-volume-7.md"
   ]
 }

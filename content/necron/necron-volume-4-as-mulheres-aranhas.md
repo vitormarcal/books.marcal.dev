@@ -18,8 +18,8 @@ feedback:
   - gostei
 book_author:
   - Magnus
-volume: 
-series: 
+volume: "4"
+series: Necron
 favorite: 
 format:
   - físico
