@@ -33,6 +33,7 @@ reading_status:
 genre:
   - filosofia
   - ciência
+dominant_color: "#6c4a4a"
 ---
 
 ![A navalha de Ockham: O princípio filosófico que libertou a ciência e ajudou a explicar o universo](img/a-navalha-de-ockham.jpg)

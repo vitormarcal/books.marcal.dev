@@ -25,7 +25,7 @@ format:
   - físico
 date_read: 2024-05-23T14:04:00
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 336
 publisher:
   - Editora Aleph
@@ -36,6 +36,7 @@ reading_status:
 genre:
   - pscológico
   - ficção-científica
+dominant_color: "#6c4a4a"
 ---
 
 ![o-astronauta-de-jaroslav-kalfar](img/o-astronauta-de-jaroslav-kalfar.jpg)

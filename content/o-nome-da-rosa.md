@@ -26,7 +26,7 @@ format:
   - físico
 date_read: 2024-12-24T15:23:00
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 588
 publisher:
   - Record
@@ -37,6 +37,7 @@ reading_status:
 genre:
   - história medieval
   - suspense
+dominant_color: "#6c4a4a"
 ---
 
 

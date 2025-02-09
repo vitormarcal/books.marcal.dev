@@ -25,7 +25,7 @@ format:
   - físico
 date_read: 2024-09-07T16:48:00
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 388
 publisher:
   - Pipoca e Nanquim
@@ -35,6 +35,7 @@ reading_status:
   - completed
 genre:
   - graphic novel
+dominant_color: "#6c4a4a"
 ---
 
 ![borboleta-assassina-vol-1](img/borboleta-assassina-vol-1.jpeg)

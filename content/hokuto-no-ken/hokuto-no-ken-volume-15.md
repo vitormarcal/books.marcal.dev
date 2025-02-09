@@ -38,6 +38,7 @@ genre:
   - graphic novel
   - shonen
   - pós-apocalíptico
+dominant_color: "#6c4a4a"
 ---
 
 

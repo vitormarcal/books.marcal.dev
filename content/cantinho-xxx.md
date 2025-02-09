@@ -36,6 +36,7 @@ reading_status:
 genre:
   - graphic novel
   - humor
+dominant_color: "#6c4a4a"
 ---
 
 ![cantinho-xxx](img/cantinho-xxx.jpg)

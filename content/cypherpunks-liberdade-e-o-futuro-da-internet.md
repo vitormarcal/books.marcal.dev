@@ -38,6 +38,7 @@ reading_status:
 genre:
   - tecnologia e sociedade
   - política e ativismo
+dominant_color: "#6c4a4a"
 ---
 
 ![cypherpunks-liberdade-e-o-futuro-da](img/cypherpunks-liberdade-e-o-futuro-da-internet.jpg)

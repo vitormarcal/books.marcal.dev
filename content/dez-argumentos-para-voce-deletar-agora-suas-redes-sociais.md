@@ -37,6 +37,7 @@ reading_status:
 genre:
   - tecnologia e sociedade
   - crítica cultural
+dominant_color: "#6c4a4a"
 ---
 
 ![Dez argumentos para você deletar agora suas redes sociais - Jaron Lanier](img/dez-argumentos-para-deletar.jpg)

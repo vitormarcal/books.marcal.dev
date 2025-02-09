@@ -25,7 +25,7 @@ format:
   - físico
 date_read: 2025-02-09T18:17:00
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 116
 publisher:
   - Tai Editora
@@ -37,7 +37,7 @@ genre:
   - graphic novel
   - horror
   - erótico
-dominant_color:
+dominant_color: "#6c4a4a"
 ---
 
 ![necron-volume-6-massacre-no-trem-noturno](img/necron/necron-volume-6-massacre-no-trem-noturno.png)

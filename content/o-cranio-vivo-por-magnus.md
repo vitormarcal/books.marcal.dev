@@ -25,7 +25,7 @@ format:
   - físico
 date_read: 2024-09-29T16:51:00
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 
 publisher:
   - Tai Editora
@@ -36,6 +36,7 @@ reading_status:
 genre:
   - horror
   - suspense
+dominant_color: "#6c4a4a"
 ---
 
 ![o-cranio-vivo-de-magnus](img/o-cranio-vivo-de-magnus.png)

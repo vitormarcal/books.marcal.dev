@@ -27,7 +27,7 @@ format:
   - digital
 date_read: 2024-11-10T18:34:00
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 
 publisher:
   - Awa Studios
@@ -38,6 +38,7 @@ reading_status:
 genre:
   - distopia
   - graphic novel
+dominant_color: "#6c4a4a"
 ---
 
 ![Luz Vermelha - minissérie em 4 cápitulos, por Sarah H. Cho](img/luz-vermelha-mini-em-4-cap-sarah-h-cho.png)

@@ -25,7 +25,7 @@ format:
   - físico
 date_read: 2024-02-15T16:44:00
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 220
 publisher:
   - Panini
@@ -36,6 +36,7 @@ reading_status:
 genre:
   - graphic novel
   - pscológico
+dominant_color: "#6c4a4a"
 ---
 
 ![Oshi no Ko - Minha Estrela Preferida Vol. 01](img/oshi-no-ko-1-1.jpg)

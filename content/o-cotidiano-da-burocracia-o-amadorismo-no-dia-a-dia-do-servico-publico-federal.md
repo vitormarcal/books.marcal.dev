@@ -1,9 +1,9 @@
 ---
 title: "O cotidiano da burocracia : o amadorismo no dia-a-dia do Serviço Público Federal"
-description:
+description: 
 author: Vítor Marçal
 created_at: 2025-01-26T16:58:00
-updated_at:
+updated_at: 
 is_post: true
 tags:
   - livros
@@ -17,24 +17,25 @@ feedback:
   - gostei
 book_author:
   - Nelson do Vale Oliveira
-volume:
-series:
-favorite:
+volume: 
+series: 
+favorite: 
 format:
   - digital
 date_read: 2025-01-26T16:58:00
 is_book: true
-quote:
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 212
 publisher:
   - Universidade de Brasília
 publication_year: 2009
-isbn:
+isbn: 
 reading_status:
   - completed
 genre:
   - burocracia
   - serviço público
+dominant_color: "#6c4a4a"
 ---
 
 ![o-cotidiano-da-burocracia-o-amadorismo-no-dia-a-dia-do-servico-publico-federal](img/o-cotidiano-da-burocracia-o-amadorismo-no-dia-a-dia-do-servico-publico-federal.png)

@@ -26,7 +26,7 @@ format:
   - físico
 date_read: 2024-07-23T21:42:00
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 620
 publisher:
   - Pipoca e Nanquim
@@ -38,6 +38,7 @@ genre:
   - graphic novel
   - distopia
   - pscológico
+dominant_color: "#6c4a4a"
 ---
 
 ![battle-royale-omnibus-volume-1](img/battle-royale-omnibus/battle-royale-omnibus-volume-1.jpg)

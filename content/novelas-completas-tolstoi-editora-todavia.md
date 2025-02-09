@@ -25,7 +25,7 @@ format:
   - digital
 date_read: 
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 443
 publisher:
   - Todavia
@@ -36,7 +36,7 @@ reading_status:
 genre:
   - ficção russa
   - pscológico
-dominant_color:
+dominant_color: "#b63725"
 ---
 ![Novelas completas: Felicidade conjugal, A morte de Ivan Ilitch, Sonata a Kreutzer, Padre Siérgui](img/novelas-completas-tolstoi-editora-todavia.png)
 

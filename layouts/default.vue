@@ -5,7 +5,7 @@ useHead({
     class: 'book-tracker'
   },
   bodyAttrs: {
-    class: 'book-tracker'
+    class: 'book-tracker',
   },
   link: [
     {
@@ -48,7 +48,7 @@ useHead({
 }
 
 body.book-tracker {
-  --blockquote-border-color: #6c4a4a;
+  --blockquote-border-color: var(--dominant-color);
   --blockquote-padding-left: 0;
 
 
@@ -59,7 +59,7 @@ body.book-tracker {
   color: #333;
 
   header {
-    background-color: #6c4a4a;
+    background-color: var(--dominant-color);
     color: #fff;
     padding: 40px 10px;
     text-align: center;
@@ -70,7 +70,7 @@ body.book-tracker {
   }
 
   header {
-    background-color: #6c4a4a;
+    background-color: var(--dominant-color);
     color: #fff;
     padding: 40px 10px;
     text-align: center;

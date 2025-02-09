@@ -24,7 +24,7 @@ format:
   - digital
 date_read: 
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 
 publisher: 
 publication_year: 
@@ -33,5 +33,6 @@ reading_status:
   - completed
   - abandoned
   - reading
-genre:
+genre: 
+dominant_color: "#6c4a4a"
 ---

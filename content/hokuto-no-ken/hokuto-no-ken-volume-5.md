@@ -38,6 +38,7 @@ genre:
   - graphic novel
   - shonen
   - pós-apocalíptico
+dominant_color: "#6c4a4a"
 ---
 
 ![hokuto-no-ken-volume-5](img/hokuto-no-ken/hokuto-no-ken-volume-5.jpg)

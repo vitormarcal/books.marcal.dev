@@ -24,7 +24,7 @@ format:
   - físico
 date_read: 2024-05-01T09:52:00
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 160
 publisher:
   - Record
@@ -34,6 +34,7 @@ reading_status:
   - completed
 genre:
   - filosofia
+dominant_color: "#6c4a4a"
 ---
 
 ![o-mito-de-sisifo-de-albert-camus](img/o-mito-de-sisifo-de-albert-camus.jpg)

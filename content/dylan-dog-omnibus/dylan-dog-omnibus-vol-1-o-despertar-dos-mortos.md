@@ -29,7 +29,7 @@ format:
   - físico
 date_read: 2024-11-15T12:23:00
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 604
 publisher:
   - Mythos
@@ -41,6 +41,7 @@ genre:
   - terror
   - suspense
   - graphic novel
+dominant_color: "#6c4a4a"
 ---
 
 ![Dylan Dog Omnibus Vol. 1: O despertar dos mortos](img/dylan-dog-omnibus/dylan-dog-omnibus-vol-1-o-despertar-dos-mortos.jpg)

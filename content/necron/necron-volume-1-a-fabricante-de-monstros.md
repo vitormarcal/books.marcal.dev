@@ -25,7 +25,7 @@ format:
   - físico
 date_read: 2024-03-08T09:22:00
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 120
 publisher:
   - Tai Editora
@@ -37,6 +37,7 @@ genre:
   - graphic novel
   - erótico
   - horror
+dominant_color: "#6c4a4a"
 ---
 
 ![necron-volume-1-a-fabricante-de-monstros](img/necron/necron-volume-1-a-fabricante-de-monstros.jpg)

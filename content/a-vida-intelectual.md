@@ -34,6 +34,7 @@ genre:
   - filosofia
   - educação
 publication_year: 2023
+dominant_color: "#6c4a4a"
 ---
 
 ![a-vida-intelectual](img/a-vida-intelectual.jpg)

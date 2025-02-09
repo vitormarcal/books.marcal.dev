@@ -8,14 +8,12 @@ const posts = await queryContent()
 
 const loadedImages = ref<string[]>([]);
 
-// Marca uma imagem como carregada
 const markImageLoaded = (key: string) => {
   if (!loadedImages.value.includes(key)) {
     loadedImages.value.push(key);
   }
 };
 
-// Verifica se a imagem já foi carregada
 const imageLoaded = (key: string) => loadedImages.value.includes(key);
 
 const currentlyReadingPosts = computed(() => {
@@ -50,8 +48,7 @@ const groupedYearsArray = computed(() => {
 const bookStore = useBookStore()
 
 onMounted(() => {
-  bookStore.resetQuoteToDefault()
-  // Configura o IntersectionObserver
+  document.documentElement.style.setProperty("--dominant-color", bookStore.defaultDominantColor);
   const observer = new IntersectionObserver((entries, observer) => {
     entries.forEach((entry) => {
       if (entry.isIntersecting) {
@@ -62,7 +59,6 @@ onMounted(() => {
     });
   });
 
-  // Adiciona todas as imagens para observação
   const lazyImages = document.querySelectorAll('.lazy-image');
   lazyImages.forEach((img) => observer.observe(img));
 });
@@ -122,7 +118,6 @@ onMounted(() => {
             </div>
           </li>
         </ul>
-        <!-- Ícone separador entre anos -->
         <div v-if="index < groupedYearsArray.length - 1" class="year-separator">
           <span class="separator-icon">🏆</span>
         </div>

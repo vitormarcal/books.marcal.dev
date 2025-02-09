@@ -22,7 +22,7 @@ format:
   - físico
 date_read: 2024-11-03T17:18:00
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 616
 publisher:
   - Objetiva
@@ -32,6 +32,7 @@ reading_status:
   - abandoned
 genre:
   - filosofia
+dominant_color: "#6c4a4a"
 ---
 ![antifragil-coisas-que-se-beneficiam-com-o-caos](img/antifragil-coisas-que-se-beneficiam-com-o-caos.jpg)
 

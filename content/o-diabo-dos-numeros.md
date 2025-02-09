@@ -26,7 +26,7 @@ format:
   - digital
 date_read: 2024-11-21T22:19:00
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 272
 publisher:
   - Seguintef
@@ -37,6 +37,7 @@ reading_status:
 genre:
   - aventura
   - ficção-matemática
+dominant_color: "#6c4a4a"
 ---
 
 ![o-diabo-dos-numeros](img/o-diabo-dos-numeros.jpg)

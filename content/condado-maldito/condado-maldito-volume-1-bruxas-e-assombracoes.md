@@ -26,7 +26,7 @@ format:
   - físico
 date_read: 2024-05-18T15:50:00
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 160
 publisher:
   - Darkside
@@ -38,6 +38,7 @@ genre:
   - terror
   - suspense
   - graphic novel
+dominant_color: "#6c4a4a"
 ---
 
 ![condado-maldito-volume-1-bruxas-e-assombracoes](img/condado-maldito/condado-maldito-volume-1-bruxas-e-assombracoes.jpg)

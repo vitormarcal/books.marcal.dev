@@ -25,7 +25,7 @@ format:
   - físico
 date_read: 2025-01-15T22:31:00
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 352
 publisher:
   - Editora JBC
@@ -36,6 +36,7 @@ reading_status:
 genre:
   - graphic novel
   - pscológico
+dominant_color: "#6c4a4a"
 ---
 ![neon-genesis-evangelion-collectors-edition-vol-06](img/evangelion-collectors-edition/neon-genesis-evangelion-collectors-edition-vol-06.jpg)
 
