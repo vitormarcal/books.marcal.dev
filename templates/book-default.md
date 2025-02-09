@@ -33,5 +33,6 @@ reading_status:
   - completed
   - abandoned
   - reading
-genre:
+genre: 
+dominant_color:
 ---

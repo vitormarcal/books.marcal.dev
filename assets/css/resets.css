@@ -16,6 +16,7 @@
     --pre-background-color: #2d2d2d;
     --blockquote-padding-left: 1rem;
     --inline-code-color: initial;
+    --dominant-color: #6c4a4a;
 }
 
 details[open] {
