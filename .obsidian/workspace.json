@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "necron-volume-5-a-nobreza-depravada"
             }
+          },
+          {
+            "id": "449b766bf41cc516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/novelas-completas-tolstoi-editora-todavia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "novelas-completas-tolstoi-editora-todavia"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,10 +192,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2588a0b733d56ab1",
+  "active": "449b766bf41cc516",
   "lastOpenFiles": [
-    "content/necron/necron-volume-6-massacre-no-trem-noturno.md",
+    "content/um-convite-a-matematica-daniel-cordeiro.md",
+    "content/um-ladrao-honesto.md",
+    "content/novelas-completas-tolstoi-editora-todavia.md",
+    "public/img/novelas-completas-tolstoi-editora-todavia.png",
+    "public/img/img.png",
     "content/necron/necron-volume-5-a-nobreza-depravada.md",
+    "content/necron/necron-volume-6-massacre-no-trem-noturno.md",
     "public/img/necron/necron-volume-6-massacre-no-trem-noturno.png",
     "public/img/necron/img.png",
     "content/necron/necron-volume-4-as-mulheres-aranhas.md",
@@ -201,7 +220,6 @@
     "templates/book-default.md",
     "a-felicidade-na-visao-de-bras-cubas.md",
     "public/img/memorias-postumas-de-bras-cubas.png",
-    "public/img/img.png",
     "content/o-cotidiano-da-burocracia-o-amadorismo-no-dia-a-dia-do-servico-publico-federal.md~",
     "content/o-cotidiano-da-burocracia-o-amadorismo-no-dia-a-dia-do-servico-publico-federal.md",
     "public/img/o-cotidiano-da-burocracia-o-amadorismo-no-dia-a-dia-do-servico-publico-federal.png",
@@ -220,10 +238,7 @@
     "content/a-obscena-senhora-d-e-outras-historias.md",
     "content/hokuto-no-ken/hokuto-no-ken-volume-1.md",
     "pre-calculo-uma-preparacao-para-o-calculo-sheldon-axler.md",
-    "public/img/pre-calculo-uma-preparacao-para-o-calculo-sheldon-axler.png",
     "templates",
-    "content/manual-de-psicologia-cognitiva.md",
-    "components/BookReview.vue~",
-    "content/hokuto-no-ken/hokuto-no-ken-volume-7.md"
+    "components/BookReview.vue~"
   ]
 }
