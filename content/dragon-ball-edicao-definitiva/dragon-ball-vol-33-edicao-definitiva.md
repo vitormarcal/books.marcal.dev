@@ -25,7 +25,7 @@ format:
   - físico
 date_read: 2024-09-14T12:20:00
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 240
 publisher:
   - Panini

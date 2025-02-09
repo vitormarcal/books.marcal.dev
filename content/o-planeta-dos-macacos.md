@@ -25,7 +25,7 @@ format:
   - digital
 date_read: 2024-02-26
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 256
 publisher:
   - Editora Aleph

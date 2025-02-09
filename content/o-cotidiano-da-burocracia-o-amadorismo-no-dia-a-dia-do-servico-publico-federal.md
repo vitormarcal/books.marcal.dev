@@ -24,7 +24,7 @@ format:
   - digital
 date_read: 2025-01-26T16:58:00
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 212
 publisher:
   - Universidade de Brasília

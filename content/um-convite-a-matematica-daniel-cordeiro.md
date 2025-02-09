@@ -26,7 +26,7 @@ format:
   - físico
 date_read: 2024-11-20T21:37:00
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 377
 publisher:
   - SBM - Sociedade Brasileira de Matemática

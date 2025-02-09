@@ -25,7 +25,7 @@ format:
   - físico
 date_read: 2025-02-09T18:06:00
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 116
 publisher:
   - Tai Editora

@@ -25,7 +25,7 @@ format:
   - físico
 date_read: 2023-12-01
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 304
 publisher:
   - Autêntica Contemporânea

@@ -27,7 +27,7 @@ format:
   - físico
 date_read: 
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 856
 publisher:
   - Artmed

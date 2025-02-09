@@ -27,7 +27,7 @@ format:
   - digital
 date_read: 2024-11-10T18:34:00
 is_book: true
-quote: 
+quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 
 publisher:
   - Awa Studios
