@@ -34,6 +34,7 @@ reading_status:
 genre:
   - educação
   - matemática
+dominant_color: "#b3b13b"
 ---
 > Pré-Cálculo – Uma Preparação para o Cálculo chega para instigar no estudante o interesse pelo aprendizado das disciplinas de Matemática com sua metodologia diferenciada. Como entender os conceitos e as aplicações é essencial para um bom desempenho acadêmico, o livro aborda, detalhadamente e sem ser cansativo, os tópicos necessários para dominar essa matéria tão temida pelos estudantes. Os capítulos trazem um aprofundamento maior do tema em relação à bibliografia tradicional da área, com exemplos de conceitos, ampla variedade de exercícios e problemas, além de um manual de soluções contido na própria obra.
 

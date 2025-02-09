@@ -41,6 +41,7 @@ genre:
   - graphic novel
   - terror
   - erótico
+dominant_color: "#772824"
 ---
 
 ![suspiria-coracao-em-chamas](img/suspiria/suspiria-coracao-em-chamas.jpg)

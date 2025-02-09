@@ -43,6 +43,7 @@ genre:
   - graphic novel
   - terror
   - erótico
+dominant_color: "#ac9083"
 ---
 
 ![suspiria-do-reino-das-trevas](img/suspiria/suspiria-do-reino-das-trevas.jpg)

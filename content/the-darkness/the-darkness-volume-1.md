@@ -37,6 +37,7 @@ reading_status:
   - completed
 genre:
   - graphic novel
+dominant_color: "#4b6faf"
 ---
 
 ![the-darkness-volume-1](img/the-darkness/the-darkness-volume-1.jpg)

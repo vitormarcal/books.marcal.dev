@@ -37,6 +37,7 @@ reading_status:
 genre:
   - matemática
   - educação
+dominant_color: "#e81542"
 ---
 
 ![um-convite-a-matematica-daniel-cordeiro](img/um-convite-a-matematica-daniel-cordeiro.jpg)

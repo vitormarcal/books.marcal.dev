@@ -36,6 +36,7 @@ reading_status:
 genre:
   - humor
   - graphic novel
+dominant_color: "#9ca3b5"
 ---
 
 ![Jovens Sagrados](img/sant-young-man-1-a-3-1.jpg)

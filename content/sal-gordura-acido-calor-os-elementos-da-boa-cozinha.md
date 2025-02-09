@@ -35,6 +35,7 @@ reading_status:
   - completed
 genre:
   - culinária
+dominant_color: "#d87852"
 ---
 
 ![Sal, gordura, ácido, calor: Os elementos da boa cozinha](img/sal-gordura-acido-calor-os-elementos-da-boa-cozinha.jpg)

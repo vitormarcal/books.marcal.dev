@@ -35,6 +35,7 @@ reading_status:
 genre:
   - pscológico
   - ficção russa
+dominant_color: "#140802"
 ---
 
 ![Um Ladrão Honesto - Fiodor Dostoievski](img/um_ladrao_honesto.jpg)
