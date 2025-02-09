@@ -36,6 +36,7 @@ reading_status:
 genre:
   - literatura brasileira
   - poesia
+dominant_color: "#6c4a4a"
 ---
 
 ![Antologia Poética, de Carlos Drummond de Andrade](img/antologia-poetica.jpg)

@@ -35,6 +35,7 @@ genre:
   - educação
   - folclore
   - mitologia
+dominant_color: "#6c4a4a"
 ---
 
 ![abecedario-de-personagens-do-folclore-brasileiro](img/abecedario-de-personagens-do-folclore-brasileiro.jpg)

@@ -38,6 +38,7 @@ genre:
   - graphic novel
   - distopia
   - pscológico
+dominant_color: "#6c4a4a"
 ---
 
 ![battle-royale-omnibus-volume-1](img/battle-royale-omnibus/battle-royale-omnibus-volume-1.jpg)

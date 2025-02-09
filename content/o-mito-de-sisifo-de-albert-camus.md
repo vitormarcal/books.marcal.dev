@@ -34,6 +34,7 @@ reading_status:
   - completed
 genre:
   - filosofia
+dominant_color: "#6c4a4a"
 ---
 
 ![o-mito-de-sisifo-de-albert-camus](img/o-mito-de-sisifo-de-albert-camus.jpg)

@@ -37,6 +37,7 @@ reading_status:
 genre:
   - história medieval
   - suspense
+dominant_color: "#6c4a4a"
 ---
 
 

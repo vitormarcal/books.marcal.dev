@@ -38,6 +38,7 @@ reading_status:
 genre:
   - matemática
   - educação
+dominant_color: "#6c4a4a"
 ---
 
 ![pre-calculo-grafico-numerico-e-algebrico](img/pre-calculo-grafico-numerico-e-algebrico.jpg)

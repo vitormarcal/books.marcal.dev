@@ -38,6 +38,7 @@ genre:
   - terror
   - suspense
   - graphic novel
+dominant_color: "#6c4a4a"
 ---
 
 ![condado-maldito-volume-1-bruxas-e-assombracoes](img/condado-maldito/condado-maldito-volume-1-bruxas-e-assombracoes.jpg)

@@ -36,6 +36,7 @@ reading_status:
 genre:
   - humor
   - infantil
+dominant_color: "#6c4a4a"
 ---
 ----
 

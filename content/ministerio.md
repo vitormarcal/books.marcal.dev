@@ -37,6 +37,7 @@ genre:
   - distopia
   - graphic novel
   - suspense
+dominant_color: "#6c4a4a"
 ---
 ![ministerio](img/ministerio.jpg)
 

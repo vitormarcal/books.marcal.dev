@@ -35,6 +35,7 @@ reading_status:
   - completed
 genre:
   - graphic novel
+dominant_color: "#6c4a4a"
 ---
 
 ![borboleta-assassina-vol-1](img/borboleta-assassina-vol-1.jpeg)

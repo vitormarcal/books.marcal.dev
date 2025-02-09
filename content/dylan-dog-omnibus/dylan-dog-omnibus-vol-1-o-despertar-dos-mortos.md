@@ -41,6 +41,7 @@ genre:
   - terror
   - suspense
   - graphic novel
+dominant_color: "#6c4a4a"
 ---
 
 ![Dylan Dog Omnibus Vol. 1: O despertar dos mortos](img/dylan-dog-omnibus/dylan-dog-omnibus-vol-1-o-despertar-dos-mortos.jpg)

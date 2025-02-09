@@ -36,7 +36,7 @@ reading_status:
 genre:
   - ficção russa
   - pscológico
-dominant_color:
+dominant_color: "#b63725"
 ---
 ![Novelas completas: Felicidade conjugal, A morte de Ivan Ilitch, Sonata a Kreutzer, Padre Siérgui](img/novelas-completas-tolstoi-editora-todavia.png)
 

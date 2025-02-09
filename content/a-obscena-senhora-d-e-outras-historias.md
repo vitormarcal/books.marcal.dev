@@ -35,6 +35,7 @@ reading_status:
 genre:
   - literatura brasileira
   - pscológico
+dominant_color: "#6c4a4a"
 ---
 ![a-obscena-senhora-d-e-outras-historias.webp](img/a-obscena-senhora-d-e-outras-historias.webp)
 

@@ -36,6 +36,7 @@ reading_status:
   - completed
 genre:
   - graphic novel
+dominant_color: "#6c4a4a"
 ---
 
 ![hq-heros-americains](img/hq-heros-americains.jpg)

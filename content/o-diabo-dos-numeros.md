@@ -37,6 +37,7 @@ reading_status:
 genre:
   - aventura
   - ficção-matemática
+dominant_color: "#6c4a4a"
 ---
 
 ![o-diabo-dos-numeros](img/o-diabo-dos-numeros.jpg)

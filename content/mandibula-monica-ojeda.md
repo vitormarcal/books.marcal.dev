@@ -37,6 +37,7 @@ genre:
   - horror
   - suspense
   - pscológico
+dominant_color: "#6c4a4a"
 ---
 
 ![Mandíbula - Mónica Ojeda](img/mandibula-1.jpg)

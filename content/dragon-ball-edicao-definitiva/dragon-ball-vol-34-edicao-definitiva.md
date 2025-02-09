@@ -36,6 +36,7 @@ reading_status:
 genre:
   - graphic novel
   - shonen
+dominant_color: "#6c4a4a"
 ---
 
 ![dragon-ball-vol-34-edicao-definitiva](img/dragon-ball-edicao-definitiva/dragon-ball-vol-34-edicao-definitiva.jpg)

@@ -37,6 +37,7 @@ genre:
   - graphic novel
   - erótico
   - horror
+dominant_color: "#6c4a4a"
 ---
 
 ![necron-volume-1-a-fabricante-de-monstros](img/necron/necron-volume-1-a-fabricante-de-monstros.jpg)

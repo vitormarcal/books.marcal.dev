@@ -39,6 +39,7 @@ genre:
   - ciência
   - educação
   - pscológico
+dominant_color: "#132240"
 ---
 > Manual de psicologia cognitiva, principal livro da área, chega a sua 7ª edição totalmente atualizado, trazendo uma cobertura ampla de todos os ramos da disciplina. Considerando a cognição humana em contexto, este livro tem por objetivo auxiliar os estudantes a desenvolverem uma compreensão profunda dos fundamentos de psicologia cognitiva.
 

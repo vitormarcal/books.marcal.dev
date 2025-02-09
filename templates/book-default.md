@@ -34,5 +34,5 @@ reading_status:
   - abandoned
   - reading
 genre: 
-dominant_color:
+dominant_color: "#6c4a4a"
 ---

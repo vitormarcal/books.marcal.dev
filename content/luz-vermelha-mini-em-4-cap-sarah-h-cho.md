@@ -38,6 +38,7 @@ reading_status:
 genre:
   - distopia
   - graphic novel
+dominant_color: "#6c4a4a"
 ---
 
 ![Luz Vermelha - minissérie em 4 cápitulos, por Sarah H. Cho](img/luz-vermelha-mini-em-4-cap-sarah-h-cho.png)

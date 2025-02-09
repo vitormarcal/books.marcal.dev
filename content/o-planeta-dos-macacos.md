@@ -36,6 +36,7 @@ reading_status:
 genre:
   - ficção-científica
   - distopia
+dominant_color: "#6c4a4a"
 ---
 
 ![O Planeta dos Macacos](img/planeta_dos_macacos.jpg)

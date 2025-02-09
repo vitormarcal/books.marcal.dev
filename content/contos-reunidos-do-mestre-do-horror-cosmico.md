@@ -35,6 +35,7 @@ reading_status:
   - completed
 genre:
   - horror cósmico
+dominant_color: "#6c4a4a"
 ---
 
 ![Contos Reunidos do Mestre do Horror Cósmico](img/contos-reunidos-do-mestre-do-horror-cosmico.jpg)

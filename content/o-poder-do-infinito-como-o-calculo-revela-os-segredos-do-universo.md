@@ -36,6 +36,7 @@ genre:
   - matemática
   - filosofia
   - história
+dominant_color: "#6c4a4a"
 ---
 
 ![o-poder-do-infinito-como-o-calculo-revela-os-segredos-do-universo](img/o-poder-do-infinito-como-o-calculo-revela-os-segredos-do-universo.jpg)

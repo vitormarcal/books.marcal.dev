@@ -36,6 +36,7 @@ reading_status:
 genre:
   - horror
   - suspense
+dominant_color: "#6c4a4a"
 ---
 
 ![o-cranio-vivo-de-magnus](img/o-cranio-vivo-de-magnus.png)

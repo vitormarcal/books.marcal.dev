@@ -33,6 +33,7 @@ reading_status:
   - abandoned
 genre:
   - pscológico
+dominant_color: "#6c4a4a"
 ---
 
 ![o-processo-de-franz-kafka](img/o-processo-de-franz-kafka.jpg)

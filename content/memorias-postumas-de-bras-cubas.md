@@ -1,9 +1,9 @@
 ---
 title: Memórias póstumas de Brás Cubas
-description:
+description: 
 author: Vítor Marçal
 created_at: 2025-01-31T21:56:00
-updated_at:
+updated_at: 
 is_post: true
 tags:
   - livros
@@ -18,9 +18,9 @@ feedback:
   - gostei
 book_author:
   - Machado de Assis
-volume:
-series:
-favorite:
+volume: 
+series: 
+favorite: 
 format:
   - digital
 date_read: 2025-01-31T21:37:00

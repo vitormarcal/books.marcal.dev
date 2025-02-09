@@ -36,6 +36,7 @@ reading_status:
 genre:
   - graphic novel
   - pscológico
+dominant_color: "#6c4a4a"
 ---
 
 ![neon-genesis-evangelion-collectors-edition-vol-04](img/evangelion-collectors-edition/neon-genesis-evangelion-collectors-edition-vol-04.jpg)

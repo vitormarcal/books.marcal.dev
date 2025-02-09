@@ -36,6 +36,7 @@ reading_status:
 genre:
   - pscológico
   - ficção-científica
+dominant_color: "#6c4a4a"
 ---
 
 ![o-astronauta-de-jaroslav-kalfar](img/o-astronauta-de-jaroslav-kalfar.jpg)

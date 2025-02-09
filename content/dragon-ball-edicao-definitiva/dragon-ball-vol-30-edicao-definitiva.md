@@ -36,6 +36,7 @@ reading_status:
 genre:
   - graphic novel
   - shonen
+dominant_color: "#6c4a4a"
 ---
 
 ![Dragon Ball Vol 30  - Edição Definitiva](img/dragon-ball-edicao-definitiva/dragon-ball-vol-30-edicao-definitiva.jpg)

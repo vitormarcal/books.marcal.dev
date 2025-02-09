@@ -38,6 +38,7 @@ genre:
   - graphic novel
   - horror
   - pscológico
+dominant_color: "#6c4a4a"
 ---
 
 ![monstro-do-pantano-vol-1-edicao-absoluta](img/monstro-do-pantano-edicao-absoluta/monstro-do-pantano-vol-1-edicao-absoluta.jpg)

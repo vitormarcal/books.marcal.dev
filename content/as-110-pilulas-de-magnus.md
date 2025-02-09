@@ -33,6 +33,7 @@ reading_status:
 genre:
   - graphic novel
   - erótico
+dominant_color: "#6c4a4a"
 ---
 
 

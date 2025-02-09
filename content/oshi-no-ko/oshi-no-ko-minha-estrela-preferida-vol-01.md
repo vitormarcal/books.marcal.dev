@@ -36,6 +36,7 @@ reading_status:
 genre:
   - graphic novel
   - pscológico
+dominant_color: "#6c4a4a"
 ---
 
 ![Oshi no Ko - Minha Estrela Preferida Vol. 01](img/oshi-no-ko-1-1.jpg)

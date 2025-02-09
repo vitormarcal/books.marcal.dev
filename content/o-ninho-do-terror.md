@@ -35,7 +35,7 @@ reading_status:
   - completed
 genre:
   - horror
-dominant_color:
+dominant_color: "#6c4a4a"
 ---
 ![o-ninho-do-terror](img/o-ninho-do-terror.png)
 

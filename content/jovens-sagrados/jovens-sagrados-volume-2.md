@@ -37,6 +37,7 @@ genre:
   - humor
   - graphic novel
 dominant_color: "#9ca3b5"
+localized_post_paths: "#6c4a4a"
 ---
 
 ![Jovens Sagrados](img/sant-young-man-1-a-3-1.jpg)

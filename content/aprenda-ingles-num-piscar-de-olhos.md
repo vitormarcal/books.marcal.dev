@@ -33,6 +33,7 @@ reading_status:
 genre:
   - educação
   - autoajuda
+dominant_color: "#6c4a4a"
 ---
 ![Aprenda Inglês num piscar de olhos](img/aprenda-ingles-num-piscar-de-olhos.jpg)
 

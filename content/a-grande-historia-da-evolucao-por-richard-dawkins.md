@@ -31,6 +31,7 @@ reading_status:
   - completed
 genre:
   - ciência
+dominant_color: "#6c4a4a"
 ---
 
 ![A Grande História da Evolução, por Richard Dawkins](img/a-grande-historia-da-evolucao-por-richard-dawkins.jpg)

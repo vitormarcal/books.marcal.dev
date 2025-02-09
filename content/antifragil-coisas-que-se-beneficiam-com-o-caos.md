@@ -32,6 +32,7 @@ reading_status:
   - abandoned
 genre:
   - filosofia
+dominant_color: "#6c4a4a"
 ---
 ![antifragil-coisas-que-se-beneficiam-com-o-caos](img/antifragil-coisas-que-se-beneficiam-com-o-caos.jpg)
 

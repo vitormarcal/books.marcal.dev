@@ -36,6 +36,7 @@ reading_status:
 genre:
   - graphic novel
   - sobrenatural
+dominant_color: "#6c4a4a"
 ---
 
 ![Mushishi](img/NewPOP_Mushishi01-3.jpg)
