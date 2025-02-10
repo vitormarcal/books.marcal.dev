@@ -3,6 +3,18 @@
 import {formatDate} from "~/utils/date-utils";
 const props = defineProps(['data'])
 
+const pageTitle = computed(() => {
+  if (props.data) {
+    return `${props.data.title} – Leituras do Vitor`
+  } else {
+    return "Leituras do Vitor"
+  }
+})
+
+useHead({
+  title: pageTitle,
+})
+
 const readingStatus = computed(() => {
   if (props.data) {
     if (props.data.reading_status == 'completed') return "Finalizada"

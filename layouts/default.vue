@@ -7,6 +7,7 @@ useHead({
   bodyAttrs: {
     class: 'book-tracker',
   },
+  title: 'Leituras do Vítor',
   link: [
     {
       rel: 'icon',

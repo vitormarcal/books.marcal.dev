@@ -47,6 +47,10 @@ const groupedYearsArray = computed(() => {
 
 const bookStore = useBookStore()
 
+watchEffect(() => {
+    bookStore.quote = bookStore.defaultQuote;
+});
+
 onMounted(() => {
   document.documentElement.style.setProperty("--dominant-color", bookStore.defaultDominantColor);
   const observer = new IntersectionObserver((entries, observer) => {

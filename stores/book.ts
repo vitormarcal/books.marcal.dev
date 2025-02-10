@@ -1,4 +1,5 @@
-import {defineStore} from "pinia";
+import { defineStore } from "pinia";
+import type {ParsedContent} from "@nuxt/content";
 
 export const useBookStore = defineStore('bookStore', {
     state: () => ({
