@@ -1,6 +1,6 @@
 ---
 title: "Battle Royale Omnibus: Volume 1 ⚔️"
-description: Volume 1 de 5 da Editora ‎ Pipoca e Nanquim
+description: Volume 1 de 5 da Editora  Pipoca e Nanquim
 author: Vítor Marçal
 created_at: 2024-07-23T21:42:00
 updated_at: 
@@ -38,7 +38,7 @@ genre:
   - graphic novel
   - distopia
   - pscológico
-dominant_color: "#6c4a4a"
+dominant_color: "#120c08"
 ---
 
 ![battle-royale-omnibus-volume-1](img/battle-royale-omnibus/battle-royale-omnibus-volume-1.jpg)
