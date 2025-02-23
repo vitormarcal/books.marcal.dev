@@ -37,7 +37,7 @@ genre:
   - graphic novel
   - horror
   - erótico
-dominant_color: "#6c4a4a"
+dominant_color: "#365473"
 ---
 
 ![necron-volume-2-o-navio-dos-leprosos](img/necron/necron-volume-2-o-navio-dos-leprosos.jpg)

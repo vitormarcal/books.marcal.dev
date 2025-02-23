@@ -37,7 +37,7 @@ genre:
   - graphic novel
   - horror
   - erótico
-dominant_color: "#6c4a4a"
+dominant_color: "#110f10"
 ---
 
 ![necron-volume-3-monstros-mecanicos](img/necron/necron-volume-3-monstros-mecanicos.jpg)

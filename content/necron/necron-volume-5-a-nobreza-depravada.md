@@ -37,7 +37,7 @@ genre:
   - graphic novel
   - horror
   - erótico
-dominant_color: "#6c4a4a"
+dominant_color: "#75b9e3"
 ---
 
 ![necron-volume-5-a-nobreza-depravada](img/necron/necron-volume-5-a-nobreza-depravada.png)

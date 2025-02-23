@@ -37,7 +37,7 @@ genre:
   - graphic novel
   - horror
   - erótico
-dominant_color: "#6c4a4a"
+dominant_color: "#323b7a"
 ---
 
 ![necron-volume-6-massacre-no-trem-noturno](img/necron/necron-volume-6-massacre-no-trem-noturno.png)

@@ -37,7 +37,7 @@ genre:
   - graphic novel
   - horror
   - erótico
-dominant_color: "#6c4a4a"
+dominant_color: "#e07480"
 ---
 
 ![necron-volume-4-as-mulheres-aranhas](img/necron/necron-volume-4-as-mulheres-aranhas.jpg)

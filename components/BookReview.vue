@@ -117,7 +117,7 @@ const feedback = computed(() => {
   .book-info h1 {
     margin: 0 0 10px;
     font-size: 1.8rem;
-    color: #6c4a4a;
+    color: var(--dominant-color);
     text-align: center;
   }
 
@@ -140,7 +140,7 @@ const feedback = computed(() => {
     font-size: 0.9rem;
     margin: 2px;
     background-color: #f0e6d2;
-    color: #6c4a4a;
+    color: var(--dominant-color);
   }
 
   .review-section {
@@ -169,7 +169,7 @@ const feedback = computed(() => {
   .related-section h2,
   .author-section h2 {
     margin-bottom: 10px;
-    color: #6c4a4a;
+    color: var(--dominant-color);
   }
 
   .related-books {
