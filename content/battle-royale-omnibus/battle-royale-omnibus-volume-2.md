@@ -2,7 +2,7 @@
 title: "Battle Royale Omnibus: Volume 2 ⚔️"
 description: Volume 2 de 5 da Editora Pipoca e Nanquim
 author: Vítor Marçal
-created_at: 2024-07-22T10:42:00
+created_at: 2025-02-22T10:42:00
 updated_at: 
 is_post: true
 tags:
