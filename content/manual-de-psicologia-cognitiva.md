@@ -3,7 +3,7 @@ title: Manual de psicologia cognitiva
 description: 
 author: Vítor Marçal
 created_at: 2025-01-01T20:48:00
-updated_at: 2025-04-23
+updated_at: 2025-03-23
 is_post: false
 tags:
   - livros
@@ -32,7 +32,7 @@ publisher:
 publication_year: 2017
 isbn: " 978-8582713952"
 reading_status:
-  - reading
+  - completed
 genre:
   - ciência
   - educação
