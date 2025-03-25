@@ -3,7 +3,7 @@ title: Manual de psicologia cognitiva
 description: 
 author: Vítor Marçal
 created_at: 2025-01-01T20:48:00
-updated_at: 
+updated_at: 2025-04-23
 is_post: false
 tags:
   - livros
@@ -15,8 +15,6 @@ image: img/manual-de-psicologia-cognitiva.png
 language: pt
 feedback:
   - gostei
-  - não gostei
-  - neutro
 book_author:
   - Michael W. Eysenck
   - Mark T. Keane
@@ -25,7 +23,7 @@ series:
 favorite: 
 format:
   - físico
-date_read: 
+date_read: 2025-03-23T15:00:00
 is_book: true
 quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 856
@@ -44,3 +42,13 @@ dominant_color: "#132240"
 > Manual de psicologia cognitiva, principal livro da área, chega a sua 7ª edição totalmente atualizado, trazendo uma cobertura ampla de todos os ramos da disciplina. Considerando a cognição humana em contexto, este livro tem por objetivo auxiliar os estudantes a desenvolverem uma compreensão profunda dos fundamentos de psicologia cognitiva.
 
 ![manual-de-psicologia-cognitiva](img/manual-de-psicologia-cognitiva.png)
+
+Depois de quase três meses, finalmente terminei. É uma boa leitura, bastante técnica. Não é apenas um livro de divulgação científica; é um livro que deve ser utilizado em sala de aula. É bastante completo no assunto e abrange muita, mas muita coisa mesmo.
+
+Por isso, é longo e, em muitos momentos, me senti entediado — não porque o conteúdo seja desinteressante ou repetitivo, pois definitivamente não é. São pouco mais de 800 páginas abordando diversos estudos e pesquisas sobre o aprendizado e o processamento da percepção humana. No entanto, a leitura se torna cansativa pelo simples fato de ser um tema imenso e denso para se estudar por longos períodos. A verdade é que eu queria ler outras coisas também, explorar outros assuntos.
+
+Os autores também não têm uma escrita instigante como a de Richard Dawkins (_O Gene Egoísta_) ou Desmond Morris (_O Macaco Nu_), que verdadeiramente têm o dom da escrita e da divulgação científica.
+
+Verdade seja dita: a leitura deste livro não é difícil, apenas cansativa, dado o volume de conteúdo.
+
+Dito isso, definitivamente é um ótimo livro, que se apoia em diversos estudos modernos sobre a imensa área da psicologia cognitiva. Recomendo.
