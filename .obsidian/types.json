@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "date_read": "datetime",
-    "created_at": "datetime"
+    "created_at": "datetime",
+    "favorite": "checkbox"
   }
 }

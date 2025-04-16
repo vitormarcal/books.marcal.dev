@@ -3,7 +3,7 @@ title: "Novelas completas: Felicidade conjugal, A morte de Ivan Ilitch, Sonata a
 description: 
 author: Vítor Marçal
 created_at: 2025-02-09T19:45:00
-updated_at: 
+updated_at: 2025-04-15
 is_post: true
 tags:
   - livros
@@ -13,26 +13,23 @@ image: img/novelas-completas-tolstoi-editora-todavia.png
 language: pt
 feedback:
   - gostei
-  - não gostei
-  - neutro
 book_author:
   - Liev Tolstói
 volume: 
 series: 
-favorite: 
+favorite: true
 format:
   - físico
-  - digital
-date_read: 
+date_read: 2025-04-15T19:41:00
 is_book: true
-quote: Os livros são sonhos que seguramos em nossas mãos.
+quote: Onde está? Que morte? Não havia medo nenhum, por isso também não havia morte. Em lugar de morte, havia luz.
 page_number: 443
 publisher:
   - Todavia
 publication_year: 2020
 isbn: " 978-6556920016"
 reading_status:
-  - reading
+  - completed
 genre:
   - ficção russa
   - pscológico
@@ -40,7 +37,57 @@ dominant_color: "#b63725"
 ---
 ![Novelas completas: Felicidade conjugal, A morte de Ivan Ilitch, Sonata a Kreutzer, Padre Siérgui](img/novelas-completas-tolstoi-editora-todavia.png)
 
-> **Descrição na Amazon:** 
-> Liev Tolstói não se satisfez apenas em escrever Guerra e paz e Anna Kariênina, caudalosos e imortais romances da literatura universal. Com apenas um desses livros seu lugar já estaria garantido na posteridade. Mas o autor russo também foi um dos grandes praticantes da novela, esse gênero de ficção breve, a meio caminho entre o conto e o romance.  
-As quatro novelas aqui reunidas, com tradução e textos de apresentação de Rubens Figueiredo, são o melhor exemplo dessa arte rigorosa e fascinante. Estão entre os mais formidáveis capítulos da literatura de todos os tempos, pois apresentam, com profundidade e inteligência raras, a vida de seres humanos em sua totalidade.  
-Publicada quando Tolstói tinha 31 anos, Felicidade conjugal se concentra no casamento de uma adolescente com um amigo da família. Foi, para o escritor, um verdadeiro tour de force: a história é narrada pela jovem personagem Máchenka, algo que naquela época não era nada trivial. Suprema meditação sobre a finitude, A morte de Ivan Ilitch foi escrita quando o autor tinha 58 anos, era pai de treze e filhos e se encontrava numa profunda crise pessoal. Trata-se da história de um juiz cuja vida é atravessada sem maiores reflexões, e interrompida pela perspectiva de uma doença terminal. Sonata a Kreutzer, baseada em uma história real, foi motivo de controvérsia quando publicada, em 1890, chegando a ser banida de alguns países. O texto expõe, com riqueza de detalhes e longas descrições, um adultério e um crime passional. Por fim, Padre Siérgui, cuja publicação só veio a lume depois da morte do autor, mostra o gosto de Tolstói pelas narrativas de vidas de santos. O protagonista, um nobre e militar, homem bem-sucedido também na vida sentimental, abandona tudo para se dedicar à vida monástica.
+Meu primeiro experimento com o imortal Liev **Tolstói**. Acertei em cheio na escolha! Esse livro reúne quatro novelas curtas e fáceis de serem lidas: _Felicidade Conjugal_, _A Morte de Ivan Ilitch_, _Sonata a Kreutzer_ e _Padre Siérgui_.
+
+_Padre Siérgui_ foi a única que não me cativou. A história é confusa, e faz sentido: Tolstói a reescreveu várias vezes, e ela só foi publicada postumamente. Há até uma fala do protagonista, _"Sou assassino"_, que não se justifica na trama. É um vestígio de uma versão anterior.
+
+As outras três, porém, são sensacionais. Cada uma toca um sentimento diferente. Tolstói era, sem dúvida, um mestre em entender a alma humana e a sociedade em que vivia, e sabia narrar isso de forma brilhante.
+
+Não vou destrinchar cada uma aqui. Tem muito material por aí. Mas o que posso dizer é que, ao terminar cada história, eu precisava ir atrás de resenhas, vídeos, análises… Cada uma me fez pensar, repensar, e até enxergar reflexos da minha própria vida.
+### Felicidade Conjugal
+
+Achei essa história, por que não? Bonitinha. Uma moça jovem, ainda lidando com o luto da mãe e com a ausência do pai, se envolve com um homem bem mais velho, amigo da família e tutor das finanças. Ele a via como... uma menina.
+
+> Ele não se comportava de maneira nenhuma como os vizinhos que chegaram depois do falecimento da mãe e que achavam necessário ficar calados e chorar, sentados conosco; ao contrário, ele se mostrou falante, alegre, e não disse uma palavra sobre mamãe, de tal modo que aquela indiferença de início me pareceu estranha e até imprópria, da parte de uma pessoa tão próxima. No entanto, depois, entendi que não se tratava de indiferença, mas de sinceridade, e fiquei grata por isso.
+
+> Como é possível mudar tanto assim? Como a senhora cresceu! Veja só, era uma violeta! Virou uma rosa completa.
+
+Acompanhar o florescimento do amor entre os dois, a leveza do início e sua transformação ao longo do tempo foi algo que me tocou. O amor ingênuo vira desgaste, mágoas, brigas. E quando tudo parece esgotado, o casal opta não pelo fim, mas por um recomeço, mais maduro, mais verdadeiro. Não sabemos o que vem depois, mas o que fica é essa escolha bonita: seguir enfrentando os altos e baixos da vida juntos.
+
+### A Morte de Ivan Ilitch
+
+Talvez a mais famosa das quatro. É a história sobre a inevitabilidade da morte e a busca por uma vida autêntica.
+
+> “A questão não está no ceco nem no rim, mas na vida e… na morte. Sim, a vida estava aqui, mas agora está indo embora, indo embora, e eu não sou capaz de retê-la. Sim. Para que me enganar? Por acaso não está evidente para todo mundo, menos para mim, que eu estou morrendo e que a questão, agora, é só o número de semanas, de dias… e pode acontecer agora mesmo. Havia luz, e agora são trevas. Uma hora eu estava aqui, mas agora eu estou indo embora! Para onde?”
+
+> “Eu não vou existir, mas então o que vai existir? Nada vai existir. Mas, então, quando eu não existir, onde estarei? Será mesmo a morte? Não, eu não quero.”
+
+Ivan Ilitch é um juiz medíocre que viveu como achava que se devia viver: tudo dentro das convenções sociais. Um dia adoece, sem cura, e começa a encarar o vazio da vida que levou. Tudo era aparência.
+
+> “É a morte. Sim, é a morte. E eles, todos eles, não sabem de nada, não querem saber, e não têm pena. Ficam tocando música.”
+
+> “Para eles, tanto faz, mas eles também vão morrer. Tolos. Primeiro eu; depois eles; mas eles também vão. E ficam se alegrando. São umas bestas!”
+
+> “Não pode ser, não é possível que todos estejam sempre condenados a esse pavor medonho.”
+
+O final é simplesmente avassalador. Não consegui deixar de marcar inúmeros trechos. A narrativa dos seus últimos instantes é tão vívida que parecia que eu estava ali, vendo tudo. Nos momentos finais, ele deixa o medo e aceita  e, ao aceitar, vive. É de arrepiar.
+
+> E Ivan Ilitch se pôs a escolher, na imaginação, os melhores momentos de sua vida agradável. No entanto — coisa terrível —, todos aqueles melhores momentos de sua vida agradável agora lhe pareciam inteiramente distintos do que pareceram na época. 
+
+> E de repente ficou claro, (...) Como é bom e como é simples. E a dor? E a morte? Onde está? Que morte? Não havia medo nenhum, por isso também não havia morte. Em lugar de morte, havia luz.
+
+### Sonata a Kreutzer
+
+Talvez não tão impactante quanto _Ivan Ilitch_ no final, mas ainda assim genial. Um homem narra, num trem, como matou a própria esposa. O que ele descreve, hoje, qualquer um reconheceria como um relacionamento tóxico.
+
+Sabe aquela relação cheia de altos e baixos? Tudo vira motivo para conflito. Conversas banais viram discussões gigantes. No dia seguinte, vem o pedido de desculpas, a reconciliação, o carinho  e, logo depois, tudo de novo. Um ciclo sufocante.
+
+A história também gira em torno do ciúme. Não dá para não lembrar de _Dom Casmurro_, ainda não li, mas sei que o tema é o mesmo: ela traiu ou não? A dúvida nunca se resolve totalmente. O protagonista se afunda cada vez mais na paranoia, e a espiral de desconfiança cresce. É um retrato fiel de muitos relacionamentos reais, mesmo hoje.
+
+> Amar um homem ou uma mulher a vida inteira é a mesma coisa que dizer que uma vela vai ficar acesa a vida inteira
+
+> Afinidade espiritual! Comunhão de ideais! — repetiu ele, emitindo seu som peculiar. — Mas, então, nesse caso não há motivo nenhum para dormirem juntos (desculpe a grosseria). Senão, por causa da comunhão de ideais, as pessoas iriam dormir juntas — disse e riu, nervoso.
+
+> Para as pessoas infelizes, é melhor morar na cidade. Uma pessoa pode viver cem anos na cidade sem se dar conta de que já morreu faz tempo e de que está podre.
+
+Ufa! Quanta emoção essas novelas! Com certeza, irei me aprofundar mais nas obras de Tolstói, como os imortais _Guerra e Paz_ e _Anna Karenina_. Fico feliz de ter começado por aqui, foi uma estreia poderosa.

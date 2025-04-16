@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/rapido-e-devagar-duas-formas-de-pensar.md",
+                "file": "content/novelas-completas-tolstoi-editora-todavia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rapido-e-devagar-duas-formas-de-pensar"
+              "title": "novelas-completas-tolstoi-editora-todavia"
             }
           }
         ],
@@ -208,10 +208,10 @@
   },
   "active": "062dc4704868dc42",
   "lastOpenFiles": [
+    "content/rapido-e-devagar-duas-formas-de-pensar.md",
     "public/img/rapido-e-devagar-duas-formas-de-pensar.png",
     "public/img/img.png",
     "content/battle-royale-omnibus/battle-royale-omnibus-volume-2.md",
-    "content/rapido-e-devagar-duas-formas-de-pensar.md",
     "content/battle-royale-omnibus/battle-royale-omnibus-volume-1.md",
     "content/manual-de-psicologia-cognitiva.md",
     "content/necron/necron-volume-1-a-fabricante-de-monstros.md",
@@ -252,7 +252,6 @@
     "public/img/necron/necron-volume-6-massacre-no-trem-noturno.png",
     "public/img/necron/img.png",
     "public/img/necron/necron-volume-5-a-nobreza-depravada.png",
-    "public/img/o-ninho-do-terror.png",
-    "public/img/o-ninho-do-terror.webp"
+    "public/img/o-ninho-do-terror.png"
   ]
 }
