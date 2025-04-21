@@ -12,9 +12,7 @@ related:
 image: img/rapido-e-devagar-duas-formas-de-pensar.png
 language: pt
 feedback:
-  - gostei
   - não gostei
-  - neutro
 book_author:
   - Daniel Kahneman
 volume: 
@@ -22,8 +20,7 @@ series:
 favorite: 
 format:
   - físico
-  - digital
-date_read: 
+date_read: 2025-04-21T12:51:00
 is_book: true
 quote: A premissa deste livro é de que é mais fácil reconhecer os enganos das outras pessoas do que os nossos.
 page_number: 608
@@ -32,7 +29,7 @@ publisher:
 publication_year: 2012
 isbn: 978-8539003839
 reading_status:
-  - reading
+  - abandoned
 genre:
   - autoajuda
   - pscológico
@@ -40,4 +37,5 @@ genre:
   - educação
 dominant_color: "#22211f"
 ---
-> Em Rápido e devagar: duas formas de pensar, Daniel Kahneman nos leva a uma viagem pela mente humana e explica as duas formas de pensar: uma é rápida, intuitiva e emocional; a outra, mais lenta, deliberativa e lógica. Kahneman expõe as capacidades extraordinárias - e também os defeitos e vícios - do pensamento rápido e revela a influência das impressões intuitivas nas nossas decisões.
+
+Desisti! Estou cansado de livros que poderiam ser uma publicação. Quem sabe outro dia!
