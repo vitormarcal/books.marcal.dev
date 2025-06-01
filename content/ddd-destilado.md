@@ -1,6 +1,6 @@
 ---
 title: Domain-Driven Design Destilado
-description: 
+description: nunca seremos capazes de antecipar todas as necessidades futuras de uma só vez
 author: Vítor Marçal
 created_at: 2025-05-26T21:09:00
 is_post: true
@@ -16,7 +16,6 @@ feedback:
   - gostei
 book_author:
   - Vaughn Vernon
-  - Angelo Stano
 volume: 
 series: 
 favorite: 
