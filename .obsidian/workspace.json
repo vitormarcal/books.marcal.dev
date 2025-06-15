@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/novas-comedias-da-vida-privada.md",
+                "file": "content/deadworld-volume-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "novas-comedias-da-vida-privada"
+              "title": "deadworld-volume-1"
             }
           }
         ]
@@ -165,9 +165,19 @@
   },
   "active": "49ca665655b1faf4",
   "lastOpenFiles": [
-    "public/img/novas-comedias-da-vida-privada.jpg",
+    "public/img/deadworld/deadworld-volume-1.png",
+    "public/img/deadworld/dead-world-volume-1.png",
+    "public/img/deadworld",
+    "public/img/dead-world/dead-world-volume-1.png",
+    "public/img/dead-world/img.png",
+    "public/img/dead-world",
+    "content/hq-heros-americains.md",
+    "content/deadworld-volume-1.md",
+    "content/luz-vermelha-mini-em-4-cap-sarah-h-cho.md",
+    "content/o-cotidiano-da-burocracia-o-amadorismo-no-dia-a-dia-do-servico-publico-federal.md",
     "content/um-ladrao-honesto.md",
     "content/novas-comedias-da-vida-privada.md",
+    "public/img/novas-comedias-da-vida-privada.jpg",
     "content/ddd-destilado.md",
     "content/craftsmanship-limpo.md",
     "public/img/ddd-destilado.jpg",
@@ -189,27 +199,17 @@
     "content/battle-royale-omnibus/battle-royale-omnibus-volume-1.md",
     "content/manual-de-psicologia-cognitiva.md",
     "content/necron/necron-volume-1-a-fabricante-de-monstros.md",
-    "public/img/manual-de-psicologia-cognitiva.png",
     "content/o-poder-do-infinito-como-o-calculo-revela-os-segredos-do-universo.md",
     "content/battle-royale-omnibus/battle-royale-omnibus-volume-2.md~",
     "content/necron/necron-volume-2-o-navio-dos-leprosos.md",
     "content/necron/necron-volume-3-monstros-mecanicos.md",
     "content/necron/necron-volume-4-as-mulheres-aranhas.md",
     "content/necron/necron-volume-5-a-nobreza-depravada.md",
-    "content/necron/necron-volume-6-massacre-no-trem-noturno.md",
     "components/BookReview.vue~",
-    "public/img/battle-royale-omnibus/battle-royale-omnibus-volume-2.png",
-    "public/img/battle-royale-omnibus/img.png",
     "content/battle-royale-omnibus/battle-royale-omnibus-volume-1.md~",
     "layouts/default.vue~",
     "components/HeaderSite.vue~",
     "stores/book.ts~",
-    "pages/[...slug].vue~",
-    "pages/index.vue~",
-    "content/dragon-ball-edicao-definitiva/dragon-ball-vol-31-edicao-definitiva.md~",
-    "templates/book-default.md",
-    "content/um-convite-a-matematica-daniel-cordeiro.md",
-    "content/sal-gordura-acido-calor-os-elementos-da-boa-cozinha.md",
-    "public/img/novelas-completas-tolstoi-editora-todavia.png"
+    "pages/[...slug].vue~"
   ]
 }
