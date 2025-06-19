@@ -56,8 +56,8 @@ const feedback = computed(() => {
           <p><strong>Data de leitura:</strong> {{ dateRead }}</p>
           <p><strong>Status data leitura:</strong> {{ readingStatus }}</p>
           <p v-if="feedback"><strong>Avaliação:</strong> <span :class="feedback.feedbackClass">{{ feedback.text }}</span></p>
-          <p><strong>ISBN:</strong> {{ data.isbn || '--' }}</p>
-          <p><strong>Páginas:</strong> {{ data.page_number || '--' }}</p>
+          <p v-if="data.isbn"><strong>ISBN:</strong> {{ data.isbn }}</p>
+          <p v-if="data.page_number"><strong>Páginas:</strong> {{ data.page_number || '--' }}</p>
           <p><strong>Gêneros:</strong><br/>
             <span class="badge" v-for="genre in data.genre">{{ genre }}</span>
           </p>
