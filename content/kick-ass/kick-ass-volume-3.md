@@ -9,7 +9,7 @@ tags:
   - livros
   - portugues
 related: 
-image: /img/kick-ass/kick-ass-volume-3.png
+image: /img/kick-ass/kick-ass-volume-3.jpg
 language: pt
 feedback: 
 book_author:
@@ -34,6 +34,6 @@ genre:
   - graphic novel
 dominant_color: "#556863"
 ---
-![kick-ass](img/kick-ass/kick-ass-volume-3.png)
+![kick-ass](img/kick-ass/kick-ass-volume-3.jpg)
 
 (Lendo)

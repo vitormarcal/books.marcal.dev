@@ -9,7 +9,7 @@ tags:
   - livros
   - portugues
 related: 
-image: /img/kick-ass/kick-ass-volume-2.png
+image: /img/kick-ass/kick-ass-volume-2.jpg
 language: pt
 feedback:
   - gostei
@@ -35,6 +35,6 @@ genre:
   - graphic novel
 dominant_color: "#5b1337"
 ---
-![kick-ass](img/kick-ass/kick-ass-volume-2.png)
+![kick-ass](img/kick-ass/kick-ass-volume-2.jpg)
 
 A história continua agora com a pequena Mindy tendo que lidar com algo pior do que os bandidos que ela enfretava: os adolescentes de sua escola! Não é surpresa, ela é uma especialista em armas, lutas e assasínio mas todos esses anos de treinamento nessas habilidades lhe custou a habilidade de conviver com outros jovens da mesma idade. Nesse volume, Mindy tenta ter uma vida normal, enquanto treina nosso Kick-Ass! Vale a leitura!

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/kick-ass/kick-ass-volume-3.md",
+                "file": "content/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kick-ass-volume-3"
+              "title": "o-espetacular-homem-aranha-edicao-definitiva-vol-1"
             }
           }
         ]
@@ -166,8 +166,20 @@
   "active": "49ca665655b1faf4",
   "lastOpenFiles": [
     "content/kick-ass/kick-ass-volume-2.md",
-    "public/img/kick-ass/kick-ass-volume-3.png",
     "content/kick-ass/kick-ass-volume-3.md",
+    "content/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-2.md",
+    "public/img/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-2.png",
+    "content/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-1.md",
+    "public/img/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-1-2.jpg",
+    "public/img/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-1-1.jpg",
+    "public/img/o-espetacular-homem-aranha-edicao-definitiva/1.jpg",
+    "public/img/o-espetacular-homem-aranha-edicao-definitiva/2.jpg",
+    "public/img/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-1.png",
+    "public/img/o-espetacular-homem-aranha-edicao-definitiva",
+    "content/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva.md",
+    "content/o-espetacular-homem-aranha-edicao-definitiva",
+    "content/o-espetacular-homem-aranha-edição-definitiva",
+    "public/img/kick-ass/kick-ass-volume-3.png",
     "public/img/kick-ass/kick-ass-volume-2.png",
     "content/kick-ass/kick-ass-volume-1.md",
     "content/the-boys.md",
@@ -176,12 +188,6 @@
     "public/img/kick-ass/00000.jpg",
     "public/img/kick-ass",
     "components/BookReview.vue~",
-    "public/img/the-boys/the-boys-1.jpg",
-    "public/img/the-boys/the-boys-the-complete-gallery-1.jpg",
-    "public/img/the-boys/the-boys-the-complete-gallery-4.jpg",
-    "public/img/the-boys/the-boys-the-complete-gallery-3.jpg",
-    "public/img/the-boys/the-boys-the-complete-gallery-2.jpg",
-    "public/img/the-boys/the-boys-the-complete-gallery.jpg",
     "public/img/the-boys",
     "content/deadworld-volume-1.md",
     "public/img/deadworld",
@@ -204,11 +210,6 @@
     "content/novelas-completas-tolstoi-editora-todavia.md",
     "content/battle-royale-omnibus/battle-royale-omnibus-volume-2.md",
     "content/battle-royale-omnibus/battle-royale-omnibus-volume-1.md",
-    "content/manual-de-psicologia-cognitiva.md",
-    "content/necron/necron-volume-1-a-fabricante-de-monstros.md",
-    "content/o-poder-do-infinito-como-o-calculo-revela-os-segredos-do-universo.md",
-    "content/battle-royale-omnibus/battle-royale-omnibus-volume-2.md~",
-    "content/battle-royale-omnibus/battle-royale-omnibus-volume-1.md~",
-    "layouts/default.vue~"
+    "content/manual-de-psicologia-cognitiva.md"
   ]
 }
