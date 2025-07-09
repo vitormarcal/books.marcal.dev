@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/kick-ass/kick-ass-volume-2.md",
+                "file": "content/kick-ass/kick-ass-volume-3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kick-ass-volume-2"
+              "title": "kick-ass-volume-3"
             }
           }
         ]
@@ -165,9 +165,11 @@
   },
   "active": "49ca665655b1faf4",
   "lastOpenFiles": [
+    "content/kick-ass/kick-ass-volume-2.md",
+    "public/img/kick-ass/kick-ass-volume-3.png",
+    "content/kick-ass/kick-ass-volume-3.md",
     "public/img/kick-ass/kick-ass-volume-2.png",
     "content/kick-ass/kick-ass-volume-1.md",
-    "content/kick-ass/kick-ass-volume-2.md",
     "content/the-boys.md",
     "content/kick-ass",
     "public/img/kick-ass/kick-ass-volume-1.jpg",
@@ -180,10 +182,8 @@
     "public/img/the-boys/the-boys-the-complete-gallery-3.jpg",
     "public/img/the-boys/the-boys-the-complete-gallery-2.jpg",
     "public/img/the-boys/the-boys-the-complete-gallery.jpg",
-    "public/img/the-boys/The Boys v12-176.jpg",
     "public/img/the-boys",
     "content/deadworld-volume-1.md",
-    "public/img/deadworld/deadworld-volume-1.png",
     "public/img/deadworld",
     "public/img/dead-world",
     "content/hq-heros-americains.md",
@@ -208,7 +208,6 @@
     "content/necron/necron-volume-1-a-fabricante-de-monstros.md",
     "content/o-poder-do-infinito-como-o-calculo-revela-os-segredos-do-universo.md",
     "content/battle-royale-omnibus/battle-royale-omnibus-volume-2.md~",
-    "content/necron/necron-volume-2-o-navio-dos-leprosos.md",
     "content/battle-royale-omnibus/battle-royale-omnibus-volume-1.md~",
     "layouts/default.vue~"
   ]
