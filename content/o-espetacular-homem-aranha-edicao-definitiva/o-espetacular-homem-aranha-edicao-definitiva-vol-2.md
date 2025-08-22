@@ -1,14 +1,14 @@
 ---
 title: "O Espetacular Homem-Aranha - Edição Definitiva : Volume 2"
-description: 
+description:
 author: Vítor Marçal
 created_at: 2025-07-09T16:09:00
-updated_at: 
+updated_at:
 is_post: true
 tags:
   - livros
   - portugues
-related: 
+related:
 image: /img/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-2.png
 language: pt
 feedback:
@@ -19,24 +19,23 @@ book_author:
   - Jack Kirby
 volume: "2"
 series: " Espetacular Homem-Aranha - Edição Definitiva"
-favorite: 
+favorite:
 format:
   - digital
-date_read: ""
+date_read: 2025-08-01T20:04:00
 is_book: true
-quote: Uma edição de peso para se ter na coleção de todo fã de quadrinhos!
+quote: Boas histórias mas não memoráveis
 page_number: 480
 publisher:
   - Panini
 publication_year: 2019
 isbn: "9788542617122"
 reading_status:
-  - reading
+  - completed
 genre:
   - graphic novel
 dominant_color: "#050304"
 ---
 ![o-espetacular-homem-aranha-edicao-definitiva-vol-2](img/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-2.png)
 
-> Lendo
-
+Honestamente, boas histórias mas não tanto memoráveis quanto no volume 1.

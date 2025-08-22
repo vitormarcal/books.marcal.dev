@@ -18,7 +18,7 @@ book_author:
   - Steve Ditko
   - Jack Kirby
 volume: "1"
-series: " Espetacular Homem-Aranha - Edição Definitiva"
+series: "Espetacular Homem-Aranha - Edição Definitiva"
 favorite: 
 format:
   - digital
@@ -43,7 +43,7 @@ dominant_color: "#050304"
 **Honestamente?** Achei que não fosse gostar. Pensei que seria datado demais. E, de fato, o trabalho envelheceu, traz aquele tom ingênuo típico da época, diálogos explicativos, soluções fáceis… Mas, puxa vida, não é que é bom mesmo?
 
 
-![o-espetacular-homem-aranha-edicao-definitiva-vol-1](img/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-1-2.jpg)
+![o-espetacular-homem-aranha-edicao-definitiva-vol-1](/img/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-1-2.jpg)
 
 Consigo entender por que o _Espantoso Homem-Aranha_ fez tanto sucesso. Ele era só um adolescente comum. Nem bonito, nem feio, só mediano. Não dá pra dizer que sofria bullying exatamente (pelo menos não achei), mas o que o distanciava dos colegas era o fato de ser um rato de biblioteca. Um cara estudioso, fora da curva... mas só nisso.
 
@@ -53,7 +53,7 @@ Este volume segue a cronologia desde sua primeira aparição. Foi bacana ver com
 
 Outro ponto alto é entender o ódio de J. Jonah Jameson, editor do Clarim Diário, ao Homem-Aranha. Jameson diz que o Aranha é tudo o que ele nunca vai ser  e cada ação do herói o lembra disso. É muito bom ver a credibilidade do Aranha ruir perante a cidade, ser tachado de covarde... Jameson chega a estampar um sorriso no rosto por umas duas edições  até que perde o sorriso quando o Aranha volta à ativa. (Ele havia se afastado porque Tia May estava doente, e ele tinha medo de que algo lhe acontecesse e deixasse a tia desamparada.)
 
-![o-espetacular-homem-aranha-edicao-definitiva-vol-1](img/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-1-1.jpg)
+![o-espetacular-homem-aranha-edicao-definitiva-vol-1](/img/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-1-1.jpg)
 
 Neste volume também temos a estreia de vários dos principais vilões da galeria do Aranha: Duende Verde, Dr. Octopus, Homem-Areia, entre outros. E também a formação do Quarteto Sinistro, a união de vilões com um só objetivo: derrotar o Espetacular.
 

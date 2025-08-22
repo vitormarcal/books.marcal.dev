@@ -1,38 +1,38 @@
 ---
-title: 
-description: 
+title:
+description:
 author: Vítor Marçal
-created_at: 
-updated_at: 
+created_at:
+updated_at:
 is_post: true
 tags:
   - livros
   - portugues
-related: 
-image: img/{{title}}.jpg
+related:
+image: /img/{{title}}.jpg
 language: pt
 feedback:
   - gostei
   - não gostei
   - neutro
-book_author: 
-volume: 
-series: 
-favorite: 
+book_author:
+volume:
+series:
+favorite:
 format:
   - físico
   - digital
-date_read: 
+date_read:
 is_book: true
 quote: Os livros são sonhos que seguramos em nossas mãos.
-page_number: 
-publisher: 
-publication_year: 
-isbn: 
+page_number:
+publisher:
+publication_year:
+isbn:
 reading_status:
   - completed
   - abandoned
   - reading
-genre: 
+genre:
 dominant_color: "#6c4a4a"
 ---
