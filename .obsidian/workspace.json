@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "criando-microsservicos-por-sam-newman"
             }
+          },
+          {
+            "id": "100913b807f3df38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/le-plat-du-loup-plat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "le-plat-du-loup-plat"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -193,11 +207,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4d4af3b6936e6457",
+  "active": "100913b807f3df38",
   "lastOpenFiles": [
+    "public/img/le-plat-du-loup-plat.jpg",
+    "content/les-profs/les-profs-tome-1-interro-surprise.md~",
+    "content/criando-microsservicos-por-sam-newman.md",
+    "content/le-plat-du-loup-plat.md",
     "public/img/criando-microsservicos-por-sam-newman.jpg",
     "content/contos-completos-por-liev-tolstoi.md",
-    "content/criando-microsservicos-por-sam-newman.md",
     "content/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-1.md~",
     "public/img/contos-completos-por-liev-tolstoi.jpg",
     "content/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-2.md",
@@ -218,7 +235,6 @@
     "public/img/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-1-1.jpg",
     "public/img/o-espetacular-homem-aranha-edicao-definitiva/1.jpg",
     "public/img/o-espetacular-homem-aranha-edicao-definitiva/2.jpg",
-    "public/img/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-1.png",
     "public/img/o-espetacular-homem-aranha-edicao-definitiva",
     "content/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva.md",
     "content/o-espetacular-homem-aranha-edicao-definitiva",
@@ -228,7 +244,6 @@
     "content/kick-ass",
     "public/img/kick-ass",
     "components/BookReview.vue~",
-    "public/img/the-boys",
     "content/deadworld-volume-1.md",
     "content/hq-heros-americains.md",
     "content/luz-vermelha-mini-em-4-cap-sarah-h-cho.md",
@@ -239,7 +254,6 @@
     "content/craftsmanship-limpo.md",
     "leituras-de-2024.md",
     "content/o-mito-de-sisifo-de-albert-camus.md",
-    "content/o-planeta-dos-macacos.md",
-    "content/pre-calculo-grafico-numerico-e-algebrico.md"
+    "content/o-planeta-dos-macacos.md"
   ]
 }
