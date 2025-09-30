@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/asterix/asterix-la-serpe-dor-v2.md",
+                "file": "content/fundacao/fundacao.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asterix-la-serpe-dor-v2"
+              "title": "fundacao"
             }
           }
         ]
@@ -166,10 +166,17 @@
   },
   "active": "49ca665655b1faf4",
   "lastOpenFiles": [
+    "content/asterix/asterix-la-serpe-dor-v2.md",
+    "public/img/fundacao/fundacao.png",
+    "public/img/fundacao/img.png",
+    "public/img/fundacao",
+    "content/fundacao/img.png",
+    "content/fundacao.md",
+    "content/fundacao/fundacao.md",
+    "content/fundacao",
     "public/img/asterix/asterix-la-serpe-dor-v2.png",
     "public/img/asterix/Imagem colada.png",
     "content/asterix/asterix-le-gaulois-v1.md",
-    "content/asterix/asterix-la-serpe-dor-v2.md",
     "content/asterix/asterix-le-gaulois-v1.md~",
     "content/battle-royale-omnibus/battle-royale-omnibus-volume-1.md",
     "content/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-2.md",
@@ -180,7 +187,6 @@
     "public/img/asterix",
     "content/asterix",
     "content/criando-microsservicos-por-sam-newman.md~",
-    "Untitled.md",
     "README.md",
     "content/le-plat-du-loup-plat.md",
     "content/contos-completos-por-liev-tolstoi.md",
@@ -193,24 +199,17 @@
     "public/img/contos-completos-por-liev-tolstoi.jpg",
     "content/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-3.md",
     "content/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-1.md",
-    "public/img/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-3-1.jpg",
-    "public/img/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-3.jpg",
     "content/les-profs/les-profs-tome-1-interro-surprise.md",
     "content/os-miseraveis-por-victor-hugo.md",
     "templates/book-default.md",
-    "public/img/les-profs/les-profs-tome-1-interro-surprise.jpg",
     "public/img/les-profs",
-    "content/les-profs",
     "content/kick-ass/kick-ass-volume-2.md",
     "content/kick-ass/kick-ass-volume-3.md",
-    "public/img/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-2.png",
-    "public/img/o-espetacular-homem-aranha-edicao-definitiva",
     "content/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva.md",
     "content/kick-ass/kick-ass-volume-1.md",
     "content/the-boys.md",
     "content/deadworld-volume-1.md",
     "content/hq-heros-americains.md",
-    "content/luz-vermelha-mini-em-4-cap-sarah-h-cho.md",
-    "content/o-cotidiano-da-burocracia-o-amadorismo-no-dia-a-dia-do-servico-publico-federal.md"
+    "content/luz-vermelha-mini-em-4-cap-sarah-h-cho.md"
   ]
 }
