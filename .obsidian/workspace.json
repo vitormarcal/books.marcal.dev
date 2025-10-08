@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/engenharia-de-plataforma-um-guia.md",
+                "file": "content/o-alienista.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "engenharia-de-plataforma-um-guia"
+              "title": "o-alienista"
             }
           }
         ]
@@ -166,9 +166,12 @@
   },
   "active": "49ca665655b1faf4",
   "lastOpenFiles": [
+    "public/img/o-alienista.jpg",
+    "content/memorias-postumas-de-bras-cubas.md",
+    "content/o-alienista.md",
+    "content/engenharia-de-plataforma-um-guia.md",
     "public/img/engenharia-de-plataforma-um-guia.jpg",
     "content/fundacao/fundacao.md",
-    "content/engenharia-de-plataforma-um-guia.md",
     "content/asterix/asterix-la-serpe-dor-v2.md",
     "public/img/fundacao/fundacao.png",
     "public/img/fundacao/img.png",
@@ -198,7 +201,6 @@
     "content/les-profs/les-profs-tome-1-interro-surprise.md~",
     "public/img/criando-microsservicos-por-sam-newman.jpg",
     "content/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-1.md~",
-    "public/img/contos-completos-por-liev-tolstoi.jpg",
     "content/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-3.md",
     "content/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva-vol-1.md",
     "content/les-profs/les-profs-tome-1-interro-surprise.md",
@@ -209,8 +211,6 @@
     "content/kick-ass/kick-ass-volume-3.md",
     "content/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva.md",
     "content/kick-ass/kick-ass-volume-1.md",
-    "content/the-boys.md",
-    "content/deadworld-volume-1.md",
-    "content/hq-heros-americains.md"
+    "content/the-boys.md"
   ]
 }
