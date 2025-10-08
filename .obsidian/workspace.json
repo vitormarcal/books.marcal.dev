@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/fundacao/fundacao.md",
+                "file": "content/engenharia-de-plataforma-um-guia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fundacao"
+              "title": "engenharia-de-plataforma-um-guia"
             }
           }
         ]
@@ -166,13 +166,15 @@
   },
   "active": "49ca665655b1faf4",
   "lastOpenFiles": [
+    "public/img/engenharia-de-plataforma-um-guia.jpg",
+    "content/fundacao/fundacao.md",
+    "content/engenharia-de-plataforma-um-guia.md",
     "content/asterix/asterix-la-serpe-dor-v2.md",
     "public/img/fundacao/fundacao.png",
     "public/img/fundacao/img.png",
     "public/img/fundacao",
     "content/fundacao/img.png",
     "content/fundacao.md",
-    "content/fundacao/fundacao.md",
     "content/fundacao",
     "public/img/asterix/asterix-la-serpe-dor-v2.png",
     "public/img/asterix/Imagem colada.png",
@@ -209,7 +211,6 @@
     "content/kick-ass/kick-ass-volume-1.md",
     "content/the-boys.md",
     "content/deadworld-volume-1.md",
-    "content/hq-heros-americains.md",
-    "content/luz-vermelha-mini-em-4-cap-sarah-h-cho.md"
+    "content/hq-heros-americains.md"
   ]
 }
