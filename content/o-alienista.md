@@ -23,7 +23,7 @@ series:
 favorite:
 format:
   - digital
-date_read:
+date_read: 2025-10-10T11:22:00
 is_book: true
 quote: A loucura, objeto dos meus estudos, era até agora uma ilha perdida no oceano da razão; começo a suspeitar que é um continente.
 page_number: 104
