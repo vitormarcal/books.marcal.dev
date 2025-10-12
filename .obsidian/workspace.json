@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/novas-comedias-da-vida-privada.md",
+                "file": "content/kick-ass/kick-ass-volume-3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "novas-comedias-da-vida-privada"
+              "title": "kick-ass-volume-3"
             }
           }
         ]
@@ -166,6 +166,9 @@
   },
   "active": "49ca665655b1faf4",
   "lastOpenFiles": [
+    "content/kick-ass/kick-ass-volume-2.md",
+    "content/kick-ass/kick-ass-volume-3.md",
+    "content/novas-comedias-da-vida-privada.md",
     "content/dom-casmurro.md",
     "public/img/dom-casmurro.jpg",
     "content/o-alienista.md",
@@ -207,8 +210,6 @@
     "content/os-miseraveis-por-victor-hugo.md",
     "templates/book-default.md",
     "public/img/les-profs",
-    "content/kick-ass/kick-ass-volume-2.md",
-    "content/kick-ass/kick-ass-volume-3.md",
     "content/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva.md",
     "content/kick-ass/kick-ass-volume-1.md"
   ]
