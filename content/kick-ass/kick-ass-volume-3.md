@@ -24,7 +24,7 @@ series: Kick-Ass
 favorite:
 format:
   - digital
-date_read: 2025-10-12T22:00:00
+date_read: 2025-10-11T22:00:00
 is_book: true
 quote: Os livros são sonhos que seguramos em nossas mãos.
 page_number: 184
