@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/kick-ass/kick-ass-volume-4.md",
+                "file": "content/dom-casmurro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kick-ass-volume-4"
+              "title": "dom-casmurro"
             }
           }
         ]
@@ -166,9 +166,11 @@
   },
   "active": "49ca665655b1faf4",
   "lastOpenFiles": [
-    "public/img/kick-ass/kick-ass-volume-4.jpg",
-    "content/kick-ass/kick-ass-volume-3.md",
+    "content/kick-ass/kick-ass-volume-1.md",
     "content/kick-ass/kick-ass-volume-2.md",
+    "content/kick-ass/kick-ass-volume-3.md",
+    "content/kick-ass/kick-ass-volume-4.md",
+    "public/img/kick-ass/kick-ass-volume-4.jpg",
     "content/novas-comedias-da-vida-privada.md",
     "content/dom-casmurro.md",
     "public/img/dom-casmurro.jpg",
@@ -194,7 +196,6 @@
     "content/criando-microsservicos-por-sam-newman.md",
     "public/img/asterix/asterix-le-gaulois-v1.jpg",
     "content/asterix/asterix-le-gaulois.md",
-    "public/img/asterix/81q918oqZxL._SL1500_.jpg",
     "public/img/asterix",
     "content/asterix",
     "content/criando-microsservicos-por-sam-newman.md~",
@@ -210,7 +211,6 @@
     "content/les-profs/les-profs-tome-1-interro-surprise.md",
     "content/os-miseraveis-por-victor-hugo.md",
     "templates/book-default.md",
-    "public/img/les-profs",
-    "content/o-espetacular-homem-aranha-edicao-definitiva/o-espetacular-homem-aranha-edicao-definitiva.md"
+    "public/img/les-profs"
   ]
 }
