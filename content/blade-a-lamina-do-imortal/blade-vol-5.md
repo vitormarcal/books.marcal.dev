@@ -1,8 +1,8 @@
 ---
-title: "Blade: A Lâmina do Imortal - Volume 3"
+title: "Blade: A Lâmina do Imortal - Volume 5"
 description:
 author: Vítor Marçal
-created_at: 2025-10-23T22:17:00
+created_at: 2025-10-20T17:17:00
 updated_at:
 is_post: true
 tags:
@@ -12,13 +12,12 @@ related:
   - "[[leituras-de-2025]]"
   - "[[tags/livros]]"
   - "[[tags/portugues]]"
-image: /img/blade-a-lamina-do-imortal/blade-vol-3.jpg
+image: /img/blade-a-lamina-do-imortal/blade-vol-5.jpg
 language: pt
 feedback:
-  - gostei
 book_author:
   - Hiroaki Samura
-volume: "3"
+volume: "5"
 series: "Blade: A Lâmina do Imortal"
 favorite:
 format:
@@ -26,17 +25,17 @@ format:
 date_read:
 is_book: true
 quote: Os livros são sonhos que seguramos em nossas mãos.
-page_number: 448
+page_number: 440
 publisher:
   - Editora JBC
 publication_year: 2016
-isbn: " 978-6555946468"
+isbn: " 978-6555947113"
 reading_status:
-  - completed
+  - reading
 genre:
   - graphic novel
-dominant_color: "#a24b40"
+dominant_color: "#4a5da9"
 ---
-![blade-vol-3](img/blade-a-lamina-do-imortal/blade-vol-3.jpg)
+![blade-vol-5](img/blade-a-lamina-do-imortal/blade-vol-5.jpg)
 
-Uma aliança surge entre Manji e Rin e um certo grupo. As coisas não esquentaram bem nesse volume. Seguirei acompanhando.
+> Lendo

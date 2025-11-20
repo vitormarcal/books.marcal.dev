@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blade-a-lamina-do-imortal/blade-vol-3.md",
+                "file": "content/blade-a-lamina-do-imortal/blade-vol-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "blade-vol-3"
+              "title": "blade-vol-5"
             }
           }
         ]
@@ -166,11 +166,15 @@
   },
   "active": "49ca665655b1faf4",
   "lastOpenFiles": [
-    "public/img/blade-a-lamina-do-imortal/blade-vol-3.jpg",
-    "content/blade-a-lamina-do-imortal/blade-vol-2.md",
+    "public/img/blade-a-lamina-do-imortal/blade-vol-5.jpg",
     "content/blade-a-lamina-do-imortal/blade-vol-3.md",
-    "public/img/blade-a-lamina-do-imortal/blade-vol-2.jpg",
+    "content/blade-a-lamina-do-imortal/blade-vol-4.md",
+    "content/blade-a-lamina-do-imortal/blade-vol-2.md",
     "content/blade-a-lamina-do-imortal/blade-vol-1.md",
+    "content/blade-a-lamina-do-imortal/blade-vol-5.md",
+    "public/img/blade-a-lamina-do-imortal/blade-vol-4.jpg",
+    "public/img/blade-a-lamina-do-imortal/blade-vol-3.jpg",
+    "public/img/blade-a-lamina-do-imortal/blade-vol-2.jpg",
     "public/img/blade-a-lamina-do-imortal/blade-vol-1.jpg",
     "public/img/blade-a-lamina-do-imortal",
     "content/dom-casmurro.md",
@@ -191,12 +195,9 @@
     "content/fundacao/fundacao.md",
     "content/asterix/asterix-la-serpe-dor-v2.md",
     "public/img/fundacao/fundacao.png",
-    "public/img/fundacao/img.png",
     "public/img/fundacao",
-    "content/fundacao/img.png",
     "content/fundacao.md",
     "content/fundacao",
-    "public/img/asterix/asterix-la-serpe-dor-v2.png",
     "content/asterix/asterix-le-gaulois-v1.md",
     "content/asterix/asterix-le-gaulois-v1.md~",
     "content/battle-royale-omnibus/battle-royale-omnibus-volume-1.md",
@@ -208,9 +209,7 @@
     "content/criando-microsservicos-por-sam-newman.md~",
     "README.md",
     "content/le-plat-du-loup-plat.md",
-    "content/contos-completos-por-liev-tolstoi.md",
     "content/escutas",
-    "as-quatro-estacoes-de-vivaldi-regencia-de-jordi-savall.md",
     "content/les-profs/les-profs-tome-1-interro-surprise.md~"
   ]
 }

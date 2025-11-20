@@ -1,8 +1,8 @@
 ---
-title: "Blade: A Lâmina do Imortal - Volume 3"
+title: "Blade: A Lâmina do Imortal - Volume 4"
 description:
 author: Vítor Marçal
-created_at: 2025-10-23T22:17:00
+created_at: 2025-11-20T22:17:00
 updated_at:
 is_post: true
 tags:
@@ -12,13 +12,13 @@ related:
   - "[[leituras-de-2025]]"
   - "[[tags/livros]]"
   - "[[tags/portugues]]"
-image: /img/blade-a-lamina-do-imortal/blade-vol-3.jpg
+image: /img/blade-a-lamina-do-imortal/blade-vol-4.jpg
 language: pt
 feedback:
   - gostei
 book_author:
   - Hiroaki Samura
-volume: "3"
+volume: "4"
 series: "Blade: A Lâmina do Imortal"
 favorite:
 format:
@@ -26,17 +26,17 @@ format:
 date_read:
 is_book: true
 quote: Os livros são sonhos que seguramos em nossas mãos.
-page_number: 448
+page_number: 479
 publisher:
   - Editora JBC
 publication_year: 2016
-isbn: " 978-6555946468"
+isbn: " 978-6555946888"
 reading_status:
   - completed
 genre:
   - graphic novel
 dominant_color: "#a24b40"
 ---
-![blade-vol-3](img/blade-a-lamina-do-imortal/blade-vol-3.jpg)
+![blade-vol-4](img/blade-a-lamina-do-imortal/blade-vol-4.jpg)
 
-Uma aliança surge entre Manji e Rin e um certo grupo. As coisas não esquentaram bem nesse volume. Seguirei acompanhando.
+Continua interessante mas confesso que em alguns momentos dá uma certa preguiça. De qualquer forma, histórias de samurais são bem intrigantes e esse volume tem cenas de extrema violência bem desenhandas.
