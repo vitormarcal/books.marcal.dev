@@ -16,8 +16,6 @@ image: /img/engenharia-de-plataforma-um-guia.jpg
 language: pt
 feedback:
   - gostei
-  - não gostei
-  - neutro
 book_author:
   - Camille Fournier
   - Ian Nowland
@@ -26,20 +24,26 @@ series:
 favorite:
 format:
   - físico
-date_read:
+date_read: 2025-11-20T19:30:00
 is_book: true
-quote: Os livros são sonhos que seguramos em nossas mãos.
+quote: Um guia para líderes técnicos, de produtos e de pessoas
 page_number: 316
 publisher:
   - Novatec
 publication_year: 2025
 isbn: 978-8575229415
 reading_status:
-  - reading
+  - completed
 genre:
   - programação
   - tecnologia e sociedade
 dominant_color: "#5f7531"
 ---
----
-> lendo
+
+![engenharia-de-plataforma-um-guia](img/engenharia-de-plataforma-um-guia.jpg)
+
+Esse é um livro que vou manter como referência. Demorei um pouco para concluir a leitura e não absorvi tudo, porque há muita coisa relevante aqui. Ele cobre desde a construção até a administração de uma plataforma. Traz conhecimento valioso não só para desenvolvedores, mas também para gerentes, chegando até a abordar contratação de profissionais. O nível de detalhes e os conselhos apresentados são excelentes.
+
+O ponto que mais me chamou atenção foi a ideia de que o objetivo de uma engenharia de plataforma é gerenciar a complexidade geral do sistema para gerar alavancagem de negócio, adotando uma abordagem de produto com curadoria. Ou seja, desenvolver plataformas como abstrações baseadas em software que atendam a uma ampla base de desenvolvedores de aplicações. O “estalo” veio justamente dessa noção de abordagem de produto, porque sempre ouvi falar de plataforma enfatizando a separação entre plataforma e produto. A perspectiva do livro parece ser muito mais interessante e efetiva.
+
+Com certeza voltarei a esse livro várias vezes.
